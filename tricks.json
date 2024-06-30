@@ -1,0 +1,3293 @@
+[
+    {
+        "name": "3 2 1 Bum",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Mechanika": 3,
+            "Materiały wybuchowe": 3
+        },
+        "additional": null,
+        "describe": "Wszystkie urządzenia na świecie można podzielić na takie, które czasem wybuchają i takie, które nigdy nie wybuchają. Szczególnie interesują Cię te pierwsze. Wystarczy tu przeciąć wężyk, tam skręcić kabel tu znów poluzować śrubkę. I gotowe. Teraz wystarczy poczekać na fajerwerki.",
+        "effect": "Możesz uzbroić - jak bombę - dowolny pojazd, urządzenie czy maszynę napędzaną łatwopalnym paliwem. Kwadrans spokojnej pracy i możesz zacząć odliczanie. Czas wybuchu określasz z pięćdziesięcioprocentową dokładnością na sekundę, minutę, kwadrans lub godzinę (np. gdy wybierzesz minutę, spodziewaj się wybuchu między pół a półtorej minuty), Czasem, jeśli MG pozwoli, nawet na tydzień. Siła wybuchu zależy od rodzaju urządzenia."
+    },
+    {
+        "name": "Aramis",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Zręczność": 14,
+            "Broń ręczna": 5
+        },
+        "additional": null,
+        "describe": "Gdy spotkasz kiedyś wędrującego samotnie dziadka, który podpiera się kijkiem, za nic w świecie go nie zaczepiaj. To może być Dziadzio z Alabamy. Najpierw wytrąci Ci kijkiem twój topór; potem złoi na kwaśne jabłko, a na koniec pogrozi palcem i pójdzie sobie dalej.",
+        "effect": "Akcja za 2 sukcesy:PT testu o poziom wyższy, do ataku dowolną bronią dłuższą od noża. Szast, prast i broń przeciwnika (każda dłuższa od noża) leci na bok."
+    },
+    {
+        "name": "Asekuracja",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Wspinaczka": 2
+        },
+        "additional": null,
+        "describe": "No nieźle ci idzie, teraz spróbuj sam. No dalej, nie pękaj...",
+        "effect": "Bohater pomaga innej osobie (zapiętaj w uprząż) wspinać się po linie. Dzięki temu osoba ta traktowana jest, jakby gdyby miała Umiejętność Wspinaczka na poziomie 1. Pozwala jej to uniknąć kłopotów z Suwakiem."
+    },
+    {
+        "name": "Aspiryna i Tik-Taki",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Leczenie chorób": 4,
+            "Blef": 3
+        },
+        "additional": null,
+        "describe": "Raz byłem poważnie chory i leczył mnie wtedy Pastor Ludwik. Przez dwa tygodnie łykałem lekarstwo na Gorączkę Sobotniej Nocy, aż wyzdrowiałem. Potem dowiedziałem się, że klecha karmił mnie aspiryną i Tik-takami.",
+        "effect": "Za pomocą najprostszych lekarstw, Bohater potrafi utrzymywać chorego w stanie stabilnym, tak, jakby podopieczny łykał potrzebne mu lekarstwo. \"Aspirynę i Tik-Taki\" można podawać przez liczbę dni równą wartości Umiejętności Blef. Potem trzeba przerzucić się na zalecane leki. Po dwóch tygodniach znów można wrócić do kuracji \"Aspiryną i Tik-Takami\""
+    },
+    {
+        "name": "Barbarka",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Bijatyka": 5,
+            "Budowa": 14
+        },
+        "additional": null,
+        "describe": "Jak dla mnie, jednym z najbardziej deprymujących zagrań w walce, jest pieprznąć gościa w ryj, własnym ryjem. To zawsze szokuje...",
+        "effect": "Jeśli segment wcześniej zadałeś celny cios (nawet obroniony przez przeciwnika), w kolejnym segmencie możesz użyć dodatkowej akcji (zużywając jednak w normalny sposób 1 segment tury)Akcja za 1 sukces:Uderzenie Głową:Zadaje Ciężkiego Siniaka. Można użyć tylko raz przeciwko temu samemu przeciwnikowi."
+    },
+    {
+        "name": "Berserker",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Odporność na ból": 6,
+            "Budowa": 12
+        },
+        "additional": null,
+        "describe": "Kumpel chwalił się kiedyś, że jest twardy jak Statua Wolności i nic go nie powali na ziemię. No i doczekał się – napadła go grupa gangerów i zaczęła go lać rurkami i łańcuchami. Nie chciał się poddać, to go powalili na ziemię. Wstał i dalej się na nich rzucał. No i w końcu brakło mu posoki, bo cała wyciekła, tak go pochlastali. Zbyt twardy był, można powiedzieć.",
+        "effect": "Jeśli Bohater walczy wręcz i odniósł przynajmniej jedną ciężką ranę, do końca walki automatycznie zdaje testy Odporności na ból, także automatycznie może wejść w tryb berserkera (walczący nie musi się bronić)."
+    },
+    {
+        "name": "Bez oddechu",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Pływanie": 4
+        },
+        "additional": null,
+        "describe": "Więc ja mu głowę pod wodę i czekam. Zacznie się dusić, to będzie bardziej rozmowny. No nie przesadzę, jak powiem, że trzymałem go tam dwie minuty. A on uśmiechnięty. No to trzy. A on morda w banan. No to ja go na cztery minuty. A on… W końcu znalazłem gazrurkę i zaczął śpiewać…",
+        "effect": "Bohater potrafi wytrzymać bez oddechu dwa razy dłużej niż zwykły człowiek (czyli każde 4 punkty Budowy dają 1 minutę)."
+    },
+    {
+        "name": "Bez sprzętu, bez zabezpieczenia",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Wspinaczka": 6,
+            "Zręczność": 10
+        },
+        "additional": null,
+        "describe": "Kocie ruchy, tak? Jak dla mnie to facet porusza się jak glonojad po ścianie akwarium. Przylgnął do skały i prędzej ta skała walnie w ziemię, niż on. Tak to już jest, jak od dziecka mieszkasz w jaskiniach, nie?",
+        "effect": "Podczas wspinaczki Bohater podwaja poziom swojej umiejętności Wspinaczka, nawet jeśli nie używa sprzętu i liny. Jednak użycie specjalistycznego sprzętu bardziej już nie pomnoży poziomu Umiejętności."
+    },
+    {
+        "name": "Bez sznurków",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Pistolety": 3,
+            "Zręczność": 13,
+            "Percepcja": 12
+        },
+        "additional": null,
+        "describe": "Nauczyłem się tego z filmu. Tak z filmu. Tyle, że u tamtych było widać sznurki, na których latali jak czarodzieje. A ja nie potrzebuję żadnych sznurków. Chcesz zobaczyć?",
+        "effect": "Skaczesz i jednocześnie strzelasz w locie; trwa to dwa segmenty, więc możesz oddać dwa strzały. Otrzymujesz za to karę +20% do testu strzelania, za to do ciebie trudniej trafić aż o +40%. W trzecim segmencie padasz na ziemię. Możesz tak zostać i walić dalej leżąc albo poświęcić segmenty na pozbieranie się i spieprzać. Sztuczka dotyczy tylko pistoletów."
+    },
+    {
+        "name": "Bieg w ciszy",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Kondycja": 3,
+            "Budowa": 12
+        },
+        "additional": null,
+        "describe": "Powiedział do mnie „Ścigamy się” i uśmiechnął się głupio. Myślę sobie, niezły żart. A potem zaczął biec. Spokojnie dopiłem piwo, zrobiłem zakupy, zatankowałem do pełna i ruszyłem. Po drodze mijałem go czterokrotnie, dokładnie tyle razy, ile razy stawała moja Christine, która tej nocy wyraźnie nie była w formie. Skończyło się tym, że dotarł do Vegas pierwszy – przebiegł 80 kilosów szybciej. Niż mój Cadillac.",
+        "effect": "Bohater może biec bez przerwy przez kilkanaście godzin, pokonując nawet 50 km."
+    },
+    {
+        "name": "Bierz go!",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Opieka nad zwierzętami": 4,
+            "Charakter": 8
+        },
+        "additional": null,
+        "describe": "Jeżeli lubisz zwierzęta, a one w dodatku to wyczują, możesz skorzystać na wzajemnej sympatii. A kogoś poszczujesz kretem, a to jaszczurka aportuje Ci bumerang…",
+        "effect": "Bohater może wydać prosty rozkaz oswojonemu i wytresowanemu zwierzęciu."
+    },
+    {
+        "name": "Boa",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Broń ręczna": 5,
+            "Zręczność": 12
+        },
+        "additional": null,
+        "describe": "Łańcuch uchodzi za broń dla idiotów. Może nie jest specjalnie zabójczy, ale nieźle wyrównuje szanse, nawet jeśli nic nie potrafisz. A jednak widziałem kiedyś prawdziwego mistrza łańcucha. Potrafił nim nawet obierać ziemniaki.",
+        "effect": "Jeśli walczący używa łańcucha, nie otrzymuje kary za walkę w zwarciu, tłoku i ciasnych pomieszczeniach. Ponadto otrzymuje dodatkowe akcje za 2 lub 3 sukcesy.Akcja za 2 sukcesy: pochwycenieUżywanie przez walczących bronie otrzymują modyfikator jak w tłoku, a pochwycony dodatkowo otrzymuje karę -2 do Zręczności (dopóki nie przejmie Inicjatywy lub nie otrzyma rany).Akcja za 3 sukcesy: wykończenieWalczący dusi przeciwnika łańcuchem i unieruchamia go. Może przydusić przeciwnika, aż ten straci przytomność: obaj walczący wykonują Przeciwstawny test Budowy, przeciwnik z dodatkowym PT +60% Jeśli przeciwnik przegra test, traci przytomność. Jeśli przeciwnik został pochwycony wcześniej, wtedy akcja kosztuje tylko 2 sukcesy."
+    },
+    {
+        "name": "Cassanova",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Blef": 2,
+            "Perswazja": 2,
+            "Zwinne dłonie": 2,
+            "Spryt": 10
+        },
+        "additional": ["tylko dla mężczyzn"],
+        "describe": "[ocenzurowano]",
+        "effect": "Możesz przerzucić każdy test Charakteru związany z uwodzeniem."
+    },
+    {
+        "name": "Mata Hari",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Blef": 2,
+            "Perswazja": 2,
+            "Zwinne dłonie": 2,
+            "Spryt": 10
+        },
+        "additional": null,
+        "describe": "[ocenzurowano]",
+        "effect": "Możesz przerzucić każdy test Charakteru związany z uwodzeniem."
+    },
+    {
+        "name": "Chłodnym okiem",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Spryt": 14
+        },
+        "additional": null,
+        "describe": "Wsadzał na głowę słuchawki, włączał walkmana z melodią szumiących liści, robił sobie gorącej kawy i zamykał oczy. Po połowie godziny otwierał oczy i rzucał jakimś spostrzeżeniem. Cholera, zawsze potrafił mnie zaskoczyć.",
+        "effect": "Wykonujesz test Sprytu. Jeśli zdasz, MG musi spokojnie, powoli i jasno przedstawić ci wszystkie fakty i zdarzenia, które pojawiły się w przygodzie. Jeszcze raz, po kolei i od początku."
+    },
+    {
+        "name": "Ciszej niż cień",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Skradanie się": 6
+        },
+        "additional": null,
+        "describe": "Słyszałeś kiedyś poruszający się cień? Z tą Sztuczką możesz być jeszcze bardziej cichy. A widziałeś kiedyś skradający się cień w środku bezksiężycowej nocy? Możesz być jeszcze bardziej niewidzialny. Dwa w jednym. Nie ma co się zastanawiać- bierz!",
+        "effect": "Przeciwnik zdaje o poziom trudniejszy test Czujności/Wypatrywania/Nasłuchiwania."
+    },
+    {
+        "name": "Człowiek, który kulom się nie kłania",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Morale": 3,
+            "Percepcja": 8
+        },
+        "additional": null,
+        "describe": "Opowiadali mi, że na północy, na froncie, pracował pewien sanitariusz. Chodził między okoapmi spokojnie, jakby zbierał stokrotki. Tu zawiązał bandaż, tam założył łupki na nogę, a w powietrzu kule gwizdały i gwizdały.",
+        "effect": "Bohater jest uodporniony na efekty psychologiczne ostrzału (ale nie obrażeń!)."
+    },
+    {
+        "name": "Czterej pancerni",
+        "book": "Neuroshima Edycja 1.5",
+        "or": {
+            "Wozy bojowe": 3,
+            "Maszyny ciężkie": 3
+        },
+        "and": {
+            "Opieka nad zwierzętami": 2
+        },
+        "additional": null,
+        "describe": "Słyszałeś kiedyś o gangu czołgistów? To nie mit. Istnieją tacy narwańcy, którzy wędrują po kontynencie w czołgu. Po czterech w każdej maszynie. Magiczna liczba, czy co? Piąty zawsze jest pies.",
+        "effect": "Jeżeli bohater kierujący maszyną ma w kopicie trzech pomocników, z których każdy posiada umiejętność Maszyny ciężkie lub Wozy bojowe przynajmniej na 1, wszystkie jego testy związane z pojazdem są łatwiejsze o 20%. Jeżeli w załodze znajdzie się pies, testy są łatwiejsze o 30%."
+    },
+    {
+        "name": "Czuły spust",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Percepcja": 14,
+            "Broń maszynowa": 4
+        },
+        "additional": null,
+        "describe": "Pewien sierżant z Posterunku zrobił kiedyś niezły pokaz. Zasiadł do CKM'u, uśmiechnął się i powiedział: 12. Po czym tratatatata. Potem powiedział: 21. I tratatatata. Poszliśmy policzyć dziurki w ścianie. Dwanaście i dwadzieścia jeden.",
+        "effect": "Bohater może przerwać zadeklarowaną długą serię po 1 segmencie, oddając zamiast niej krótką. Może też przerwać ogień ciągły po 1 segmencie, oddając zamiast niego krótką serię, lub po 2 segmentach- oddając długą serię. Dzięki temu oszczędza kule."
+    },
+    {
+        "name": "Dalszy zasięg",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Kusza": 9,
+            "Budowa": 12
+        },
+        "additional": null,
+        "describe": "Znasz Chucka? Chuck mówi do mnie, \"Widziałeś tego ptaka?\" A ja mu na to \"No nie widzę\". A on mówi: \"To posłuchaj\". I sru, strzelił z tej swojej kuszy. I po chwili \"Kraaaa, kraaa\". Zabił ptaszynę... Ja wiem, ile to mogło być metrów, pięćset?",
+        "effect": "Otrzymując te same utrudnienia bohater potrafi strzelić na dwa razy większą odległość, pod warunkiem. że kusza ma wystarczający zasięg."
+    },
+    {
+        "name": "Dawid",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Proca": 4
+        },
+        "additional": null,
+        "describe": "A gość kręci tym paskiem i kręci, w końcu pytam go: \"Koleś, zaciąłeś się?! Wypuścisz ten kamień w końcu?\" No i wypuścił. Aż żal mi było tego palanta z Vegas, gdy dostał kamieniem prosto w czoło. Niby zwykła proca, a jednak wiele potrafi.",
+        "effect": "Bohater przeznacza trzy segmenty na strzał, dzięki czemu jest mu łatwiej o -30% trafić przeciwnika z procy."
+    },
+    {
+        "name": "Dłuższy strzał",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Łuk": 9,
+            "Budowa": 12
+        },
+        "additional": null,
+        "describe": "Znasz Chucka? Chuck mówi do mnie, widzisz tego ptaka? A ja mu na to: no widzę. A on... Co? Już to mówiłem? O kuszy? E, niemożliwe. Chuck strzela z łuku...",
+        "effect": "Otrzymując te same utrudnienia, Bohater potrafi strzelić na dwa razy większą odległość, pod warunkiem, że łuk ma wystarczający zasięg."
+    },
+    {
+        "name": "Dobry i zły glina",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Spryt": 12
+        },
+        "additional": null,
+        "describe": "Widzisz tamten cmentarz? Zauważyłeś, że wszystkie daty na nim są wczorajsze? Wczoraj chciałem się po prostu dowiedzieć od miejscowych, który z nich jest mechanikiem. I wiesz, w końcu poskutkowało. Jakiś facio w ciągu trzech godzin nauczył się fachu i teraz reperuje mój samochód.",
+        "effect": "Podczas przesłuchiwania sam na sam z więźniem, możesz w teście dodać do Zastraszania lub Perswazji swój Blef lub Postrzeganie emocji."
+    },
+    {
+        "name": "Dobywanie",
+        "book": "Neuroshima Edycja 1.5",
+        "or": {
+            "Pistolety": 5,
+            "Broń ręczna": 5
+        },
+        "and": {
+            "Zręczność": 12
+        },
+        "additional": null,
+        "describe": "Widziałem kiedyś taki film, w starym kinie w Vegas, \"Bez przebaczenia\", czy \"Tombstone\", nie pamiętam dokładnie. Rzecz była o kowbojach. Ci goście strzelali się bez osłony, bez pancerzy i innych takich. Jednyne co się liczyło- to kto pierwszy dobędzie broni i wystrzeli. I wiesz, od klku miesięcy też ćwiczę dobywanie. W końcu kogoś zaskoczę.",
+        "effect": "Dobycie pistoletu (lub noża itp.) zajmuje jeden segment."
+    },
+    {
+        "name": "Dom na plecach",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Kondycja": 4,
+            "Budowa": 13
+        },
+        "additional": null,
+        "describe": "Kiedy wyciągnął z plecaka namiot, materac, śpiwór, dwie butle gazowe, zestaw garnków, książkę kucharską i maść na moskity, nie zdziwiłem się. Zaskoczył mnie, gdy wyciągnął słoik ogórków, miseczkę na deszczówkę i żółwia w słoiku. Potem jeszcze jakiś wykrywacz ruchu i poduszkę. Przegiął, gdy z dna wyjął piżamę i papucie...",
+        "effect": "Możesz udźwignąć dwa razy więcej niż normalny człowiek."
+    },
+    {
+        "name": "Doświadczony",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Kondycja": 5,
+            "Budowa": 12
+        },
+        "additional": null,
+        "describe": "Dawniej była nawet taka fucha, bodaj brygadzista się to nazywało. Facet stał i nic nie robił, a inni dzięki temu pracowali lepiej. Dasz wiarę?!",
+        "effect": "Bohater pomaga innym osobom pracującym wraz z nim, ich wydajność jest większa o 50%, bo BG motywuje i pomaga innym w pracy."
+    },
+    {
+        "name": "Dystans",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Rzucanie": 6,
+            "Budowa": 10
+        },
+        "additional": null,
+        "describe": "Znasz Chucka? Chuck mówi do mnie: \"Widzisz tego ptaka?\". Co znowu? Jak to już było? Co było?! Opowiadałem już o tym? No to sorry...",
+        "effect": "Bohater otrzymuje tylko połowę kary wynikającej z dystansu podczas rzucania nożem."
+    },
+    {
+        "name": "Dziś wszystko, jutro nic",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Kondycja": 3
+        },
+        "additional": null,
+        "describe": "No i gość zawziął się i rozładował ten tabor. Inna sprawa, że na drugi dzień, jak zszedł z wyra, to padł na pysk i tak został. Kawę to mu słomką podawałem. Nie potrafił się ruszać i już. Popsuł się, innymi słowy.",
+        "effect": "Bohater może pracować tyle wydajniej o tyle procent wydajniej, ile wynosi jego Budowa pomnożona przez 20. Musi też zdać Bardzo Trudny test Budowy. Następnego dnia Bohater nie jest zdolny do wykonywania pracy fizycznej."
+    },
+    {
+        "name": "Flash",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Bijatyka": 4,
+            "Kondycja": 3
+        },
+        "additional": null,
+        "describe": "Uwziąłem się kiedyś na pewnego Chinola. Rozwaliłem pół knajpy, ale nie udało mi się go trafić. Padał, skakał, fikał koziołki. W końcu znalazłem go pod jednym ze stolików. Facet w końcu padł z wyczerpania.",
+        "effect": "Decyzję należy podjąć na początku tury, przed rzutem 3k20. Walczący może dodać +3 do Zręczności w obronie na czas 1 segment. Za to na koniec tury otrzymuje karę +20% ze zmęczenia."
+    },
+    {
+        "name": "Garda",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Bijatyka": 4,
+            "Budowa": 12
+        },
+        "additional": null,
+        "describe": "Gość mnie w nerkę, a ja w bok. On mnie w brzuch, a ja się zastawiam. On mnie w bok, a ja garda. I jeszcze raz uderzył w nerkę, a ja jeszcze jeden blok. Niestety, potem się wściekł i złapał toporek.",
+        "effect": "Decyzję należy podjąć na początku tury, przed rzutem 3k20. Walczący otrzymuje bonus +6 do Zręczności w obronie, ale w razie obronionego ciosu i tak otrzymuje obrażenia, tylko o stopień niższe. Sztuczka działa tylko przeciwko nieuzbrojonemu przeciwnikowi (oczywiście, w miarę humanoidalnemu)."
+    },
+    {
+        "name": "Głaz",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Przygotowanie pułapki": 3,
+            "Charakter": 12
+        },
+        "additional": null,
+        "describe": "Nie wiesz jak straszliwie trudno jest zachować bezruch przez dłuższy czas. Musisz się podrapać. Przesunąć nogę. Wysikać. Dostajesz skurczu. A oczy wariują - niedługo całe twoje ciało wrzeszczy o jakiś ruch. Dobry snajper potrafi się wyciszyć. Potrafi przeleżeć półtora dnia jak głaz, wtopiony w otoczenie, będąc w jakimś dziwnym transie. Nie poruszy się do chwili, gdy pojawi się cel. A wtedy poruszy tylko palcem.",
+        "effect": "Bohater potrafi trwać nieruchomo przez ilość minut równą Charakterowi pomnożonemu przez 20."
+    },
+    {
+        "name": "Goła ręka",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Zwinne dłonie": 4
+        },
+        "additional": null,
+        "describe": "Karty kartami, ale zwinne rączki przydają się nie tylko przy zielonym stoliku. Czasem na hasło \"Pokaż ręce\" trzeba pokazać, że nie ma się broni. A jednak zawsze tę broń warto by mieć, prawda? Mój kumpel właśnie umiał tak - niby pokazywał, że nie ma, a zawsze coś miał, skubany...",
+        "effect": "Bohater potrafi podejść do kogoś z ukrytym pistoletem lub nożem w rękawie tak, że broń jest niedostrzegalna. Jeśli przeciwnicy spodziewają się ukrytej broni, muszą wykonać Bardzo Trudny test Czujności."
+    },
+    {
+        "name": "Granie na nerwach",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Perswazja": 9,
+            "Spryt": 10
+        },
+        "additional": null,
+        "describe": "Miałem takiego kumpla, Eliasa. Facet był wkurzający, ale miał dobre źródło Tornado, więc włóczyłem się za nim przez długi czas. Raz napotkaliśmy takiego wielkiego gangera. Elias zaczął się nabijać z twardziela. Tak mu grał na nerwach, że wielkolud zrobił się czerwony. Już myślałem, że przypieprzy Eliasowi... i dostałem w pysk.",
+        "effect": "Wykonując Bardzo Trudny test Perswazji, Bohater potrafi rozzłościć dowolna osobę tak, że wali ona w pysk najbliżej stojącą ofiarę losu, ale nie Bohatera. Kobiety wykonują zaledwie Trudny test perswazji."
+    },
+    {
+        "name": "Gunfight",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Pistolety": 4,
+            "Zręczność": 14
+        },
+        "additional": null,
+        "describe": "Facet nie był karateką, ale dbał o to, by mu nikt spluwy nie wziął. Potrafiłby odstrzelić ci kapelusz trzymając spluwę za swoimi plecami. Nawet byś nie wiedział, skąd padł strzał.",
+        "effect": "Wykonując strzał z przyłożenia możliwość użycia umiejętności Strzelanie zamiast Bijatyka w walce wręcz."
+    },
+    {
+        "name": "Hej, przystojniaku!",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Perswazja": 4,
+            "Charakter": 14
+        },
+        "additional": [
+            "tylko dla kobiety"
+        ],
+        "describe": "Czasem zupełnie przeciętna dziewczyna potrafi przyciągać spojrzenia bardziej niż niesamowita szprycha. Dzięki tej sztuczce, stada samców będą na usługi bohaterki. Przynieś buty. Leż. Zmywaj.",
+        "effect": "Aby oprzeć się Perswazji bohaterki, członkowie drużyny muszą wykonać Cholernie Trudny test Niezłomności. W przypadku porażki, spełnią \"każde\" jej życzenie (chodzi o drobne przysługi);"
+    },
+    {
+        "name": "Hokus pokus",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Zwinne dłonie": 4
+        },
+        "additional": null,
+        "describe": "Fajna sztuczka, przynajmniej do czasu, jak nie bawisz się granatem. Bo wiesz, jak się zbytnio zagalopujesz, i sobie wsadzisz w spodnie, a jeszcze bez zawleczki...",
+        "effect": "Bohater potrafi schować do kieszeni lub wyciągnąć z niej niewielki przedmiot w sposób zupełnie niedostrzegalny."
+    },
+    {
+        "name": "Immunitet",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Leczenie chorób": 4,
+            "Budowa": 12
+        },
+        "additional": null,
+        "describe": "Była kiedyś taka kobieta. Nazywała się Matka Teresa z Kalkuty. Chociaż w Kalkucie pod Denver nikt o niej nie słyszał, uczeni powiadają, że mimo, iż leczyła zakaźnie chorych, umarła ze starości.",
+        "effect": "Bohater nigdy nie zarazi się chorobą podczas leczenia pacjentów."
+    },
+    {
+        "name": "Inspiracja",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Zdolności przywódcze": 3
+        },
+        "additional": null,
+        "describe": "Spoko chłopcy, może i jest ich więcej, ale i tak przerobimy ich na pasztet! Damy radę?! Pewnie! No to łapać za niezbędniki i naprzód!",
+        "effect": "Dowódca zdaje Trudny test Zdolności przywódczych. Jeśli go zda, obniża o jeden Poziom Trudności najbliższego testu Morale wszystkich swoich podkomendnych lub towarzyszy."
+    },
+    {
+        "name": "Jest zajebiście",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Blef": 6,
+            "Charakter": 16
+        },
+        "additional": null,
+        "describe": "Miałem takiego kumpla. Niepoprawny optymista - parł naprzód mimo wszelkich przeszkód. Nie widział nigdy złych stron żadnego planu. Wszystko było dla niego \"zajebiste\". Najlepsze, że potrafi tym entuzjazmem zarażać innych. To zajebista Sztuczka. Weź ją.",
+        "effect": "Bohater wykonuje test Blefu o dowolnie wybranym PT. Jeśli test się powiedzie na każdy PT powyżej Łatwego wszyscy w drużynie dostają ułatwienie -5% do najbliższego testu. Jeśli test Blefu nie powiedzie się, wszyscy dostają utrudnienie tej samej wysokości."
+    },
+    {
+        "name": "Kanały",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Wyczucie kierunku": 4,
+            "Spryt": 12
+        },
+        "additional": null,
+        "describe": "Wędrowaliśmy po podziemiach dobre sześć, może nawet więcej godzin. Ciemno, mokro i piździ. A gość mówi, jesteśmy na miejscu. Myślę sobie - zaprowadził nas do domu, witamy w szambie! A on nie, wychodzi na powierzchnię i nagle okazuje się, że jesteśmy w Vegas. A wiesz, rano byliśmy w Detroit. Poważnie!",
+        "effect": "Wędrując po podziemiach, Bohater orientuje się w kierunkach niczym żywy kompas i pamięta drogę, jaką przebył tak, jakby miał przed oczami mapę."
+    },
+    {
+        "name": "Komandos",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Zręczność": 14,
+            "Czujność": 3
+        },
+        "additional": null,
+        "describe": "Pewien facet nauczył mnie doceniać znaczenie tych małych podskakujących kopczyków ziemi, które powstają gdy jakiś wariat wygarnie serią z CKMu. Nie żeby od razu bawił się w arytmetykę i geometrię, ale skubany tak się toczył na prawo i lewo, że prawie nie szło go trafić.",
+        "effect": "Nie można cię trafić korygowanym, ani przenoszonym ogniem z broni maszynowej."
+    },
+    {
+        "name": "Kop z obrotu",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Bijatyka": 4,
+            "Budowa": 8,
+            "Zręczność": 14
+        },
+        "additional": null,
+        "describe": "Steve miał taki styl, mówił do kolesia Martens i niby się od niego odwracał, by po chwili zakręcić się i pieprznąć z półobrotu w twarz. Wiesz, Martensy to nazwa jego butów; zawsze potem przez tydzień miałeś ich znak firmowy na ryju. Całkiem niezłe logo, swoją drogą...",
+        "effect": "Akcja za 3 sukcesy.Budowa do 16 = Lekki SiniakBudowa powyżej 16 = Ciężki SiniakMożna stosować nawet gdy walczysz bronią."
+    },
+    {
+        "name": "Kot",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Wspinaczka": 4,
+            "Zręczność": 12
+        },
+        "additional": null,
+        "describe": "I mówi do mnie, spieprzamy. Ja patrzę, a gość skacze przez okno. Obłęd.",
+        "effect": "Bohater może spadać z dwa razy wyższej wysokości niż normalni ludzie, nie odnosząc obrażeń."
+    },
+    {
+        "name": "Kradzież w tłumie",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Kradzież kieszonkowa": 2,
+            "Ukrywanie się": 2
+        },
+        "additional": null,
+        "describe": "Johny się potknął i wpadł na Devila, Devil na mnie, ja na jakiegoś frajera, a do mojej ręki przylepiła się jakaś spluwa i dwa zapasowe magazynki. Dziwne to wszystko, co nie?",
+        "effect": "Jeśli okradasz kogoś w tłumie czy ścisku test Kradzieży kieszonkowej jest dla Ciebie łatwiejszy o -30%"
+    },
+    {
+        "name": "Leśny diabeł",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Ukrywanie się": 5,
+            "Łowiectwo": 2
+        },
+        "additional": null,
+        "describe": "Kiedy myślę o takich ludziach, przechodzą mnie dreszcze. Nie dostrzeżesz żadnego z nich, chyba, że zechce być zauważony. Leśny diabeł zaszyje się gdzieś w gąszczu i tkwi w ukryciu, wyczekując na zdobycz. Ma świadomość bezpieczeństwa, więc może skupić się tylko na wyszukiwaniu celu. Pomyśl czego ktoś taki mógłby dokonać ze snajperką.",
+        "effect": "Ukrywając się w lesie, wśród zarośli i drzew, Bohater może dodać do Umiejętności Ukrywania się Łowiectwo."
+    },
+    {
+        "name": "Ładowanie kuszy",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Kusza": 6
+        },
+        "additional": null,
+        "describe": "Kuszy nie ładuje się łatwo. Można nawet powiedzieć, że w warunkach bojowych naciąganie cięciwy to prawdziwy horror. No cóż, są tacy, którzy potrafią w miarę szybko załadować kuszę. Ja tam wolę strzelać z peemki.",
+        "effect": "Załadowanie kuszy zajmuje Bohaterowi jedną turę."
+    },
+    {
+        "name": "Ławnik",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Budowa": 14
+        },
+        "additional": null,
+        "describe": "Ławnik to taki koleś, który jak nikt inny potrafi nawalać wszystkich wokół ławką. Albo beczką. Albo stolikiem. Cokolwiek, byle było duże i ciężkie.",
+        "effect": "Otrzymujesz bonus +2 do Broni ręcznej, jeśli w walce zamiast broni używasz ciężkich elementów otoczenia, jak stoły, ławki, beczki itp."
+    },
+    {
+        "name": "Magazynek",
+        "book": "Neuroshima Edycja 1.5",
+        "or": {
+            "Pistolety": 3,
+            "Karabiny": 3
+        },
+        "and": {
+            "Zręczność": 12
+        },
+        "additional": null,
+        "describe": "A widziałeś może \"Desperado\"? Ten gość potrafił wymieniać magazynek, jak nikt inny.",
+        "effect": "Wymiana magazynka w pistolecie zajmuje jeden segment. W przypadku rewolwerów ładujesz 1 nabój na segment."
+    },
+    {
+        "name": "Mech bojowy",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Maszyny ciężkie": 4,
+            "Spryt": 12
+        },
+        "additional": null,
+        "describe": "Wstyd się przyznać, ale w miasteczku, które pojechaliśmy łupić, załatwił nas samotny facet. Serio, był sam a nas sześciu - każdyna Harleyu. Jak nas załatwił?Miał wóz strażacki. Nie doceniliśmy potęgi sikawki. I nie ma się z czego śmiać!",
+        "effect": "Bohater potrafi wykorzystać elementy maszyn jako broń (wysięgniki, dźwigi, widły wózków) PT testów posługiwania się taką bronią ustala MG."
+    },
+    {
+        "name": "Miotacz kul",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Zręczność": 12,
+            "Percepcja": 10,
+            "Wyczucie kierunku": 1,
+            "Rzucanie": 2
+        },
+        "additional": null,
+        "describe": "Potrafisz cholernie celnie rzucać przedmiotami. Nie znaczy to, że od razu zostaniesz nożownikiem. Co prawda, trafisz w cel nawet nożem, ale nie znaczy, że od razu tą właściwą, ostrą stroną. Za to do granatów jest to wprost idealne!",
+        "effect": "Otrzymujesz bonus -30% do rzucania, jednak nie dotyczy to rzucania nożami itp"
+    },
+    {
+        "name": "Mistrz opaski uciskowej",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Pierwsza pomoc": 3,
+            "Blef": 3,
+            "Zręczność": 12
+        },
+        "additional": null,
+        "describe": "Postrzeliłem tamtego gangera, aleto był mój ostatni nabój. Myślałem, że gówniarz nas rozstrzela, ale kumpel mówi - \"Jestem mistrzem opaski uciskowej, opatrzę ci ranę, ale puścisz nas\". Ganger w śmiech i odpowiada - \"Zobaczymy\". Kumpel dopadł do zbira i dawaj go bandażować. Nawet się nie połapałem, kiedy związał Gangera \"w baleron\"",
+        "effect": "Bohater potrafi tak \"opatrzyć\" swojego pacjenta, że podopieczny jest skrępowany i nie może się ruszyć. Sztuczka działa, jeżeli powiedzie się Trudny test Pierwszej pomocy oraz Trudny test Blefu"
+    },
+    {
+        "name": "Mistrz włóczni",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Broń ręczna": 6,
+            "Zręczność": 14
+        },
+        "additional": null,
+        "describe": "Gdy biegł na mnie, wyglądało to tak, jakby chciał skoczyć o tyczce. Niestety, nie o to mu chodziło.",
+        "effect": "Gdy zaczyna się walka, a twój przeciwnik jest w takiej odległości, że musicie do siebie podbiec lub podejść, masz przed testem Inicjatywy jedną dodatkową turę walki, w której automatycznie posiadasz Inicjatywę. Dopiero po tej turze w normalny sposób testujecie Inicjatywę. Działa tylko, gdy walczysz włócznią."
+    },
+    {
+        "name": "Myśleć jak maszyna",
+        "book": "Neuroshima Edycja 1.5",
+        "or": {
+            "Elektronika": 11,
+            "Mechanika": 11
+        },
+        "and": {
+            "Postrzeganie emocji": 11
+        },
+        "additional": null,
+        "describe": "Nestugow jest cholernym cyborgiem. To półbóg, mówię Ci. Patrzy przez lornetkę na biegnącego Łowcę i mówi: \"zawróci\". Po kilku sekundach Łowca zawraca.",
+        "effect": "Po wykonaniu Bardzo Trudnego testu Postrzegania emocji i Bardzo Trudnego testu Mechaniki lub Elektroniki, Bohater jest w stanie przewidzieć następne posunięcie maszyny Molocha. Sztuczki można użyć tylko raz przeciwko tej samej maszynie."
+    },
+    {
+        "name": "Na pewno działa!",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Rusznikarstwo": 4
+        },
+        "additional": null,
+        "describe": "Usłyszeliśmy \"klik\" i już wiedziałem, że mamy przesrane. Spluwa Cichego, którą celował prosto w łeb szefa tej grupy mutantów, właśnie się zacięła. Nie było na to lepszego momentu... Cichy splunął, wycedził pod nosem: \"No strzelaj zdziro\" i jeszcze raz nacisnął spust. Łeb mutanta pękł jak dynia.",
+        "effect": "Przy wyniku rzutu na zablokowanie broni w zakresie 11-18, broń zacina się aż do czasu jej naprawienia już po walce. Dzięki tej sztuczce Bohater potrafi zmusić broń do oddania jeszcze jednego strzału."
+    },
+    {
+        "name": "Naprawdę, to nie moja wina",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Mechanika": 3,
+            "Spryt": 13
+        },
+        "additional": null,
+        "describe": "Ten sukinsyn oparł się o barierkę i wtedy nagle spadł mu kapelusz. Mówię ci, to niewiarygodne. Pieprzony kapelusz dostał się między łopatki turbiny. Najpierw coś zgrzytnęło, potem zapiszczało, zadymiło. I w końcu wybuchło. Ledwie uszliśmy z życiem. A teraz Chicago nie ma elektrowni.",
+        "effect": "Potrafisz uszkodzić urządzenie w taki sposób, że do jego naprawy wymagany będzie Bardzo trudny test Mechaniki. Musisz poświęcić na to około kwadransu. Urządzenie nie może mieć zabezpieczeń np. w postaci zwartego pancerza - musisz mieć dostęp do wnętrza. Sztuczka nie dotyczy bardzo prostych urządzeń."
+    },
+    {
+        "name": "Nauczyciel",
+        "book": "Neuroshima Edycja 1.5",
+        "or": {
+            "Historia": 4,
+            "Geografia": 4,
+            "Biologia": 4,
+            "Literatura": 4,
+            "Języki": 4,
+            "Fizyka": 4,
+            "Matematyka": 4,
+            "Chemia": 4,
+            "Chirurgia": 4},
+        "and": null,
+        "additional": null,
+        "describe": "Jeśli coś potrafisz i jeszcze tego nauczasz - masz parasol ochronny. Żaden wieśniak, na przykład ten, któremu powiedziałeś, jak nastawić żonie wywichnięty bark, albo ten, któremu pomogłeś podłączyć radio bezpośrednio do kabla z prądem, nie pozwoli ci zrobić krzywdy.",
+        "effect": "Bohater potrafi przekazywać wiedzę szybko i efektywnie. Może uczyć inne postacie swoich Umiejętności (kosztują wówczas 10% mniej w Punktach Doświadczenia). Poza tym Bohater jest jednym z najmilej widzianych gości w każdej osadzie."
+    },
+    {
+        "name": "Niewrażliwość na lekkie rany",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Odporność na ból": 4,
+            "Charakter": 12
+        },
+        "additional": null,
+        "describe": "A ja tylko czekałem, aż Johnemu wbiją ten bagnet w nogę - to jego ulubiona sztuczka. I stało się, wbili mu to żelazo, głęboko, tak na dziesięć centów. \"I co, boli?\" - zapytali. A on na to jak zwykle: \"Bardziej zaboli was\" i połamał im ręce i nogi, aż trzeszczało. Cały Johny. Lubi, jak mu ktoś coś gdzieś wbije... Czeka na to i dopiero potem robi chłopakom krzywdę.",
+        "effect": "Po otrzymaniu Lekkiej rany lub Draśnięcia, Bohater nie musi wykonywać testu Odporności na ból, tak jakby automatycznie zdał test."
+    },
+    {
+        "name": "No strzelaj, złomie!",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Rusznikarstwo": 4
+        },
+        "additional": null,
+        "describe": "Dotychczas uważałem, że walenie spluwą o leżący na ziemi kawał beton nie służy broni najlepiej. No cóż, kilka tygodni w towarzystwie Brudnego Harrego potrafi wywrócić człowiekowi światopogląd. On właśnie tak naprawiał gnata, jak mu się zaciął.",
+        "effect": "Przy wyniku rzutu na zablokowanie broni w zakresie 1-10 broń zacina się na jedną turę. Bohater potrafi \"przywrócić ją do życia\" w ciągu jednego segmentu."
+    },
+    {
+        "name": "Nożownik",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Zręczność": 12,
+            "Broń ręczna": 5
+        },
+        "additional": null,
+        "describe": "Facet zamachnął się na mnie nabitą gwoździami pałką, zrzedła mi mina, ale jakoś uskoczyłem, a maczuga wbiła się w ścianę i tam została. Już się miałem uśmiechnąć, ale nagle widzę, że sukinsyn ma szczęście - w postaci ciężkiego topora opartego obok. O mało nie zlałem się w gacie. Na szczęście go nie uniósł. W końcu zobaczył nóż. Już się miałem uśmiechnąć, gdy nagle zobaczyłem uśmiech na jego twarzy. Znalazł to, czego szukał.",
+        "effect": "Otrzymujesz bonus +1 do Broni ręcznej, jeśli walczysz nożem. Ponadto otrzymujesz dodatkową akcję za 3 sukcesy.Akcja za 3 sukcesy: wykończeniePT testu wyższe o poziom. Walczący wbija nóż w serce przeciwnika albo jednym szybkim cięciem rozcina jego gardło, zadając ranę Krytyczną. Ponadto nie musisz wykonywać losowego rzutu, by sprawdzić, czy nóż trafił w cel ostrzem."
+    },
+    {
+        "name": "Obezwładnienie",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Bijatyka": 2
+        },
+        "additional": null,
+        "describe": "Powalasz gościa na ziemię, wykręcasz rękę, żeby się nie rzucał i pytasz, czy boli. Jeśli jęczy, znaczy się, że boli.",
+        "effect": "Akcja za 2 sukcesy.Powalasz przeciwnika i próbujesz unieruchomić. Jeśli wygrasz Przeciwstawny test Budowy, przeciwnik nie może się ruszyć (może próbować się uwolnić w każdej następnej turze - za każdym razem ma trudniej o +30%) Jeśli przegrasz - uwolnił się i walczycie dalej. Możesz spróbować zadać ranę unieruchomionemu przeciwnikowi - po zadeklarowaniu tego, musisz wygrać Przeciwstawny test Budowy."
+    },
+    {
+        "name": "Odnajdywanie właściwej osoby",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Spryt": 12,
+            "Charakter": 12
+        },
+        "additional": null,
+        "describe": "Mój kumpel, Sonny - on to potrafił. Wchodził do miasta, kierował się do knajpy i siadał przy stoliku. Po pół godzinie mieliśmy sprzedany cały towar, bak pełen benzyny i pół bagażnika amunicji do AK. Sonny wiedział z kim załatwiać takie rzeczy.",
+        "effect": "Bohater zdaje Trudny test Sprytu, kręci się trochę po osadzie i wie, kto pełni tutaj ważne funkcje."
+    },
+    {
+        "name": "Odporność na pogodę",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Znajomość terenu": 4
+        },
+        "additional": null,
+        "describe": "Ci goście nie mają kataru, grypy, ani sraczki. Mogą przez tydzień wędrować w ulewie, żreć owady i popijać stęchłą wodą... Śnieg, wichura, pioruny. A ci wędrują i wędrują. I mają się dobrze. I nic, do jasnej cholery, nic im nie jest! To mutanci, mówię ci!",
+        "effect": "W swoich testach Bohater nie uwzględnia utrudnień za niesprzyjające warunki pogodowe."
+    },
+    {
+        "name": "Odtrucie żarcia",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Zdobywanie wody": 6
+        },
+        "additional": null,
+        "describe": "Na moich oczach podniósł z ziemi zdechłą jaszczurkę i uśmiechnął się. Potem opalił ją na ogniu, wyciął kilka części, wrzucił ją do garnka i dosypał jakiegoś proszku, tak, że woda aż zabulgotała. A potem zjadł tę gadzinę. I wiesz, ja to mam w dupie, ja się padliny nie chwycę, kto wie, na co zdechła, może świerzb miała, albo co innego.",
+        "effect": "Bohater wykonuje Przeciętny lub Trudny (decyzja MG) test zdobywania wody. Jeśli go zda, może odkazić również zatrute pożywienie."
+    },
+    {
+        "name": "Odwrócenie uwagi",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Kradzież kieszonkowa": 4,
+            "Spryt": 10
+        },
+        "additional": null,
+        "describe": "W zasadzie nie jest to trudna sprawa, wystarczy trochę wprawy i pomysłów. Ot, udasz, że zostałeś popchnięty, czy zaczepisz kogoś i o coś spytasz, możesz zrobić wiele fajnych numerów - byle facet patrzył ci w oczy, albo gdzieś w horyzont, a nie tam gdzie trzymasz łapy.",
+        "effect": "Dodaje +30% utrudnienia do testu Czujności ofiary kradzieży."
+    },
+    {
+        "name": "Origami",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Bijatyka": 5,
+            "Zręczność": 12
+        },
+        "additional": null,
+        "describe": "Facet się wkurzył i odszedł. Na dwa lata. Znalazł podobno jakiegoś starego mistrza judo. Dziadek go uczył, uczył i oto skutki. Teraz chodzi z opaską na czole.",
+        "effect": "Można stosować w walce bezpośredniej.Akcja za 1 sukces:PochwycenieUżywane przez walczących bronie otrzymują modyfikator jak w zwarciu, a pochwycony dodatkowo otrzymuje karę -2 do Zręczności (dopóki nie przejmie Inicjatywy lub nie otrzyma rany). Ponadto umożliwia przeprowadzenie specjalnych akcji w kolejnych segmentach.Akcja za 2 sukcesy:RzutPrzeciwnik wylatuje w górę i uderza o ziemię. Otrzymuje Lekką ranę i nie może przejąć Inicjatywy w kolejnym segmencie. Jeśli przeciwnik został pochwycony wcześniej, wtedy akcja kosztuje tylko 1 sukces.Akcja za 3 sukcesy:WykończenieWalczący zakłada dźwignię i unieruchamia przeciwnika, jeśli zechce może zadać ranę Ciężką. Może także przydusić przeciwnika, aż ten straci przytomność. Jeśli przeciwnik został pochwycony wcześniej, wtedy akcja kosztuje tylko 2 sukcesy."
+    },
+    {
+        "name": "Ośmiornica",
+        "book": "Neuroshima Edycja 1.5",
+        "or": {
+            "Bijatyka": 4,
+            "Broń ręczna": 4
+        },
+        "and": {
+            "Kondycja": 2,
+            "Spryt": 12
+        },
+        "additional": null,
+        "describe": "Nie było na niego bata, machał bronią jakby miał osiem rąk, a nie dwie. I wtedy zdałem sobie sprawę, że ręka mi słabnie i długo tak nie wytrzymam. Musiałem go skosić serią. Cholera, było mi szkoda tych kul...",
+        "effect": "Decyzję należy podjąć na początku tury, przed rzutem 3k20. Walczący otrzymuje w danej turze karę -2 do Zręczności w obronie, ale za to nawet mimo braku Inicjatywy, może zastosować w walce manewr Zwiększone tempo."
+    },
+    {
+        "name": "Otwieranie zamków elektronicznych",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Elektronika": 2,
+            "Otwieranie zamków": 2
+        },
+        "additional": null,
+        "describe": "Jak myślisz, kto się lepiej zna na sztuce, artysta czy historyk sztuki? Dobra, a kto szybciej otworzy elektroniczny zamek: elektronik czy złodziej? Ty nie musisz się tym przejmować, na szczęście jesteś i jednym, i drugim.",
+        "effect": "Podczas otwierania zamków elektronicznych możesz w teśćie dodać do swojej Elektroniki, Otwieranie zamków."
+    },
+    {
+        "name": "Padnij./powstań",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Zręczność": 12,
+            "Budowa": 12
+        },
+        "additional": null,
+        "describe": "Jeśli jesteś z Hegemoni i nie potrafisz tego od urodzenia, to wstyd. Goście ćwiczą i ćwiczą, a jak dojdzie co do czego, to masz wrażenie, jakby skubaniec leżał na trampolinie. Więc jeżeli wybrałeś Pochodzenie \"Hegemonia\" - lepiej wykup tę Szcztuczkę, inaczej ludzie będą się z ciebie śmiali.",
+        "effect": "Pad na ziemię nie zajmuje segmentu, a zerwanie się z ziemi na równe nogi zajmuje tylko jeden segment."
+    },
+    {
+        "name": "Pająk",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Zręczność": 14,
+            "Wspinaczka": 8
+        },
+        "additional": null,
+        "describe": "Uczył się wspinać od dziecka. Był coraz lepszy, potem jeszcze lepszy. Uczył się tego i uczył, aż w końcu się nauczył.",
+        "effect": "Bohater nie musi wykonywać testów Wspinaczki. Jeśli tylko MG uzna, że możliwe jest wspięcie się na daną ścianę, Pająk wspina się tam bez problemu."
+    },
+    {
+        "name": "Pakowanie",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Spryt": 10
+        },
+        "additional": [
+            "tylko dla kobiet"
+        ],
+        "describe": "Co mówiesz kochanie? Co? \"Cukier jest w łazience w apteczce, w małym pudełku z napisem kakao\"?! A gdzie jest bandaż? Co? Włożyłaś bandaże do bidonu?!",
+        "effect": "Bohaterka posiadająca tę Umiejętność potrafi spakować plecak tak, że może z niego wyjąć dowolną rzecz w trzy tury. Dla samca ten rekord jest nie do pobicia."
+    },
+    {
+        "name": "Pan plaster",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Pierwsza pomoc": 4,
+            "Spryt": 14
+        },
+        "additional": null,
+        "describe": "Ten sanitariusz, co to kulom się nie kłaniał, miał jeszcze jedną ciekawą umiejętność. Za pomocą najprostszych środków potrafił leczyć najpoważniejsze obrażenia. Tu plaster, tam plaster i po trepanacji ani śladu.",
+        "effect": "Bohater może używać połowy wartości Umiejętności Pierwsza pomoc, jakby właśnie tyle punktów miał w Umiejętności Leczenie ran."
+    },
+    {
+        "name": "Pewna ręka",
+        "book": "Neuroshima Edycja 1.5",
+        "or": {
+            "Pistolety": 3,
+            "Karabiny": 3
+        },
+        "and": {
+            "Charakter": 12,
+            "Zręczność": 12
+        },
+        "additional": null,
+        "describe": "Amator bierze do ręki spluwę i wali gdzie popadnie. Gdyby się sobie przyjrzał, odkryłby, że ręka mu lata jak szmata na wietrze. Zawodowiec ma pewną rękę i strzały częściej sięgają celu. Ale prawdziwi mistrzowie stają się jednością z pistoletem. Wiesz, pistolet jest przedłużeniem oczu. Znaczy się ręki. Jakoś tak.",
+        "effect": "Gdy poświęcasz segment na celowanie, oprócz dodatkowej kostki do testu strzału, zyskujesz ułatwienie do testu. Test staje się łatwiejszy o -30%"
+    },
+    {
+        "name": "Pierwotny instynkt",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Zręczność": 12,
+            "Czujność": 2,
+            "Bijatyka": 3
+        },
+        "additional": null,
+        "describe": "Pewnego razu zaczailiśmy się w ruinach na paru gangerów. Rozdzieliliśmy i zachodzimy ich od różnych stron. Nagle widzę, a tu Johny z jednej strony murku, a Devil z drugiej. Murek się kończy i ta dwójka naszych wpada na siebie. W tej samej chwili Devil leży i trzyma się za krwawiący nos. Bo Johny ma swoją świętą zasadę: najpierw bije, a potem sprawdza kogo.",
+        "effect": "Bez względu na sytuację, w teście Inicjatywy zawsze testujesz Zręczność, nawet gdy inni muszą testować Percepcję."
+    },
+    {
+        "name": "Pitbull",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Czujność": 3,
+            "Percepcja": 13,
+            "Zręczność": 13
+        },
+        "additional": null,
+        "describe": "Wracaliśmy kiedyś w czwórkę z wielkiego festynu przyjaźni z mutantami w Saint Louis. Nieźle się ubawiliśmy. Pech chciał, że w krzakach przyczaiła się banda Teksańczyków, którym festyn nie przypadł do gustu. Wyskoczyli nagle z krzaków i jedynym z nas, który nie oberwał był Jojo. Potem wyrzucaliśmy mu: Jojo, czemu nas nie ostrzegłeś, czemu nie ostrzegłeś?",
+        "effect": "Nie można cię zaskoczyć żadną zasadzką. Nie znaczy to, że wypatrujesz zagrożenie wcześniej, po prostu jesteś zawsze gotowy do walki i reagujesz natychmiast. Nie tracisz segmentów z powodu zasadzki i w normalny sposób testujesz Inicjatywę."
+    },
+    {
+        "name": "Plug&Play",
+        "book": "Neuroshima Edycja 1.5",
+        "or": {
+            "Wozy bojowe": 2,
+            "Maszyny ciężkie": 2
+        },
+        "and": {
+            "Komputery": 2
+        },
+        "additional": null,
+        "describe": "Tylko raz widziałem takie cudo. Spec podłączył swój komputer do panelu fabryki, nacisnął czerwony guzik i wszystkie syreny zaczęły wygrywać Happy Birthday. To były moje urodziny. Wzruszyłem się.",
+        "effect": "Bohater potrafi podłączyć komputer do ciężkiej maszynerii. Umiejętność Komputery staje się Umiejętnością wspomagającą dla Wozów bojowych i Maszyn ciężkich."
+    },
+    {
+        "name": "Po schodach",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Motocykl": 3,
+            "Zręczność": 12
+        },
+        "additional": null,
+        "describe": "Puszczasz sprzęgło i w drogę. Ja tak często jeżdżę, a bo to mało razy winda się spieprzyła? Miałem na nogach wchodzić?! Na piąte piętro?!",
+        "effect": "Bohater nie otrzymuje utrudnień do prowadzenia motocykla podczas jazdy wewnątrz budynków (po korytarzach, czy schodach.)"
+    },
+    {
+        "name": "Podrasowanie",
+        "book": "Neuroshima Edycja 1.5",
+        "or": {
+            "Mechanika": 6,
+            "Elektronika": 6
+        },
+        "and": {
+            "Spryt": 12
+        },
+        "additional": null,
+        "describe": "I wziął go bracie, podkręcił tak, że wyciągaliśmy setkę w 6 sekund. Inna sprawa, że po tygodniu chłodnica spłonęła...",
+        "effect": "Bohater może zwiększyć wydajność dowolnego urządzenia od 50% do 200% zależnie od sytuacji. Urządzenie ma dużą szansę na poważną awarię w trakcie pracy - decyduje MG."
+    },
+    {
+        "name": "Położenie motocykla",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Motocykl": 6,
+            "Zręczność": 12
+        },
+        "additional": null,
+        "describe": "Pierwszy raz w życiu widziałem coś takiego. Facet wjechał na motorze pod pędzącą ciężarówkę, wyjechał z drugiej strony i po trzech minutach ciężarówka wybuchła...",
+        "effect": "Bohater w pełnej szybkości kładzie motor; przejeżdża nisko pod przeszkodą, a po jej minięciu stawia motor i jedzie dalej."
+    },
+    {
+        "name": "Prowizorka",
+        "book": "Neuroshima Edycja 1.5",
+        "or": {
+            "Mechanika": 3,
+            "Elektronika": 3
+        },
+        "and": null,
+        "additional": null,
+        "describe": "Facet wziął śrubokręt, kawałek drutu i zapalniczkę. Chwilę potem odlecieliśmy w siną dal. Zrobił z tego helikopter. No poważnie!",
+        "effect": "Mając do dyspozycji kilka narzędzi i kawałek drutu, jesteś w stanie uruchomić urządzenie w czasie dziesięciokrotnie krótszym niż to normalnie wymagane, nawet jeśli nie masz \"niezbędnych\" do tego elementów i narzędzi. Urządzenie działa przez kilka minut, czasem kilka godzin, zależnie od stopnia uszkodzeń (decyzja MG)"
+    },
+    {
+        "name": "Rappelling",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Wspinaczka": 3
+        },
+        "additional": null,
+        "describe": "Kumpel wyrzucił linę za okno i krzyczy: \"spierdalamy\", zjeżdża po niej. No i skoczyłem za nim. Jakbyłem w połowie drogi, to już wiedziałem, że nie jest to takie proste, jak myślałem. Przytomność straciłem przy lądowaniu. Od tej pory do lin podchodzę raczej ostrożnie.",
+        "effect": "Bohater potrafi zjeżdżać po linie - jest to prędkość niewiele wolniejsza, niż gdyby zeskoczył."
+    },
+    {
+        "name": "Rodeo",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Ujeżdżanie": 5,
+            "Jazda konna": 3
+        },
+        "additional": null,
+        "describe": "Ha ha! Wypakowałeś tę idiotyczną Umiejętność na 5+? No to odbierz prezent! Sztuczka do wykupienia, a mikser gratis. Niech Ci MG kupi.",
+        "effect": "Jeśli MG stwierdzi, że dane stworzenie da się ujeździć za pomocą testu najwyżej Bardzo Trudnego (po zastosowaniu Suwaka!), to znaczy, że ty nie musisz testować w ogóle. Wsiadasz i jedziesz, stary, jak samochodem."
+    },
+    {
+        "name": "Rozróba",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Bijatyka": 6,
+            "Budowa": 12,
+            "Zręczność": 12
+        },
+        "additional": null,
+        "describe": "Facet miał ksywę Niedźwiedź, i wiesz, dopiero jak go chcieliśmy związać, to załapałem, w czym rzecz...",
+        "effect": "Walcząc z wieloma przeciwnikami, Bohater może wykonać darmowy atak przeciwko każdemu ze swoich pozostałych przeciwników, względem których posiada Inicjatywę. Każdy dodatkowy atak wykonuje rzutem 1k20 i może zadać co najwyżej cios za 1 sukces. Przeciwnicy bronią się normalnie, za pomocą swoich 3k20."
+    },
+    {
+        "name": "Rrrroooaaarrr",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Bijatyka": 3,
+            "Charakter": 16
+        },
+        "additional": null,
+        "describe": "Kiedyś słyszałem o czymś takim jak okrzyk bojowy, ale dopiero gdy spotkałem Jackiego, załapałem w czym rzecz. Gdy na mnie wrzasnął, po prostu się przewróciłem. Podobno sekretem jest czosnek.",
+        "effect": "Jeśli walczący przeprowadza manewry Furia lub Szarża, wykonuje okrzyk bojowy i przeciwnik jest zmuszony do testu Morale, tak jak w przypadku zasady Najpierw spójrz mi w oczy. Sztuczki można użyć tylko raz przeciwko temu samemu przeciwnikowi. W walce z wieloma przeciwnikami działa na maksimum 5-ciu przeciwników."
+    },
+    {
+        "name": "Ruchome gniazdo CKM",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Budowa": 16,
+            "Broń maszynowa": 6
+        },
+        "additional": null,
+        "describe": "Mówili na niego Pan Bunkier, czasem Pan Imadło. Jak się zaparł nogami, to nic go nie mogło ruszyć, a jak chwycił CKM, wycelował i nacisnął spust, to broń prawie nie podskakiwała. Wszystkie kulku leciały równiutko, jak po sznurku, prosto w cel. Potem dopiero okazało się, że facet był pieprzonym mutantem.",
+        "effect": "Jeśli Bohater trafia serią w cel, może wpakować w niego dwa razy więcej kul niż wynika z normalnych reguł broni maszynowej. Inaczej mówiąc, wynik testu pogarsza się o 1 nie co 1 kulę, tylko co 2."
+    },
+    {
+        "name": "Ruchomy cel",
+        "book": "Neuroshima Edycja 1.5",
+        "or": {
+            "Pistolety": 4,
+            "Karabiny": 4,
+            "Broń maszynowa": 4
+        },
+        "and": {
+            "Spryt": 12, 
+            "Percepcja": 12
+        },
+        "additional": null,
+        "describe": "Widziałem kiedyś w akcji Stalową Policję, jak wykańczali akurat jakichś łachmytów niedaleko Jackson. Goście spieprzali ile sił w nogach, klucząc i skacząc na boki. Oficer SP mruknął \"Chłopcy, ruchomy cel!\" Każy z tych psycholi oddał tylko jeden strzał. I żaden bandzior już nie uciekał.",
+        "effect": "Nie otrzymujesz kary do testu strzelania wynikającej z poruszania się celu."
+    },
+    {
+        "name": "Rzut oka",
+        "book": "Neuroshima Edycja 1.5",
+        "or": {
+            "Mechanika": 4,
+            "Elektronika": 4
+        },
+        "and": {
+            "Spryt": 10
+        },
+        "additional": null,
+        "describe": "A gość spogląda na mnie i śmiertelnie poważnym głosem mówi \"Zesrało się\". A ja, wiesz, jak gdyby nigdy nic, mówię do niego: \"Widzisz, kolego. Widzę, że się zesrało. Ale proszę, powiedz mi, co dokładnie się zesrało.\" A facet spogląda na mnie i tym samym, śmiertelnie poważnym głosem mówi: \"Hydrostabilizator\"",
+        "effect": "W ciągu kilku sekund jesteś w stanie (w sposób przybliżony) określić przeznaczenie i sposób działania dowolnego urządzenia technicznego."
+    },
+    {
+        "name": "Sama se skocz po piwo",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Niezłomność": 8,
+            "Charakter": 12
+        },
+        "additional": null,
+        "describe": "Znasz legendę o Jeźdźcu bez głowy? A słyszałeś bajkę o Teksańczyku, który miał alergię na konie? Jestem w stanie uwierzyć we wszystko, ale nie w to, że istnieje ktoś posiadający tę Sztuczkę.",
+        "effect": "Bohater jest odporny na Sztuczkę: Hej, przystojniaku!"
+    },
+    {
+        "name": "Samuraj",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Zręczność": 10,
+            "Broń ręczna": 3
+        },
+        "additional": null,
+        "describe": "Na pojedynek z tym sukinsynem wybrałem starą elektrownię, czyli, że tak powiem \"moje miejsce\". Zebrało się sporo gapiów. Wiedziałem, że nie mam szans. Gnojek przytaszczył tę swoją katanę, ja wziąłem drewniany młot. Rozbrzmiał gong. Wtedy Pablo, mój kumpel elektronik, włączył elektromagnes, pod którym staliśmy. Na szczęście zadziałał.",
+        "effect": "Otrzymujesz bonus +1 do Broni ręcznej, jeśli walczysz mieczem lub pałką. Ponadto, jeśli nosisz katanę, rapier lub inną lekką broń chowaną w pochwie, dobycie jej zajmuje ci tylko 1 segment."
+    },
+    {
+        "name": "Sherlock Holmes",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Tropienie": 6
+        },
+        "additional": null,
+        "describe": "Ledwo widoczny ślad w piasku? \"Elementarne, Wattsonie - to był biały mężczyzna, wzrost koło 184 cm, waga 80 kg, lekko utykający na prawą nogę. Niósł coś w ręce - teczkę, albo torbę.",
+        "effect": "Z tą Sztuczką tropiciel analizujący nawet bardzo niewyraźne ślady może uzyskać informacje o tym, co stało się w danym miejscu - musi zdać Trudny (po zastosowaniu Suwaka!) test Tropienia"
+    },
+    {
+        "name": "Siekierezada",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Budowa": 13,
+            "Rzucanie": 4
+        },
+        "additional": null,
+        "describe": "Każdy potrafi rzucać siekierą. Bierzesz, rzucasz - no i leci. A ja cię teraz nauczę, jak nią rzucić, żeby ta cholera się wbiła. I to nie byle jak. Ma rozpołowić pieniek. No popatrz...",
+        "effect": "Potrafisz rzucać siekierą tak, że trafienie zadaje Ciężką ranę."
+    },
+    {
+        "name": "Siup dup",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Zręczność": 14,
+            "Bijatyka": 4
+        },
+        "additional": null,
+        "describe": "Siup, dup i nagle czujesz ból, a potem widzisz, że twoją spluwę trzyma ten, co właśnie zrobił siup, dup. Nie wiem co dokładnie oznacza \"siup, dup\". Goście od sztuk walki robią to tak szybko, że nic nie widać. Tylko \"siup, dup\" i gotowe.",
+        "effect": "Akcja za 3 sukcesyPT testu o poziom wyższy, tylko do walki gołymi rękami. Rozbrajasz przeciwnika i przejmujesz jego broń."
+    },
+    {
+        "name": "Skład amunicji",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Proca": 2,
+            "Percepcja": 10
+        },
+        "additional": null,
+        "describe": "Siedzieliśmy w okopie. Tamci też mieli jakąś osłonę. Można było sądzić, że będziemy tak siedzieli miesiąc i straszyli się nawzajem. Każdy oszczędzał amunicję, bo nie było sensu strzelać na oślep. Tylko Ślepy Bizon walił z tej swojej procy raz za razem. \"Dużo masz tych pocisków?\" - pytam, a on rozejrzał się wzdłuż okopu i odpowiedział \"Ze 30 tysięcy, a co?\"",
+        "effect": "Bohater potrafi natychmiast znaleźć pociski do procy - jeśli jest na otwartym terenie i o ile MG uzna to za możliwe."
+    },
+    {
+        "name": "Skok",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Motocykl": 4,
+            "Charakter": 14
+        },
+        "additional": null,
+        "describe": "Oczywiście, że trzeba mieć spore umiejętności, by skakać na motorze z dachu na dach, ale powiem ci, jak dla mnie to przede wszystkim trzeba mieć stalowe jaja. Rozpędzić motocykl i zamknąć oczy potrafi każdy. Niestety, to zdecydowanie za mało...",
+        "effect": "Jadąc na motorze, Bohater może bez testu przeskoczyć przez dziurę, rozpadlinę, przepaść lub z jednego budynku na drugi, na odległość do 8 metrów. Musi jednak mieć miejsce na rozbieg - dwukrotnie więcej niż ma wynieść długość skoku."
+    },
+    {
+        "name": "Słuch absolutny",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Nasłuchiwanie": 4
+        },
+        "additional": null,
+        "describe": "Granie ze słuchu, bezbłędne rozpoznawanie ludzkich głosów, taki był nasz Ron. Myślałem, że w dupę sobie można wcisnąć takie Sztuczki, aż tu raz siedzieliśmy za rogiem i słyszeliśmy, jak gość otwiera zamek kodowy i wchodzi do środka. Ron podszedł do zamka i kurwa, zagwizdał ten sam kod i weszliśmy.",
+        "effect": "Można zakupić tę Sztuczkę tylko podczas tworzenia postaci. Bohater musi zdać Bardzo Trudny test Nasłuchiwania i jest w stanie powtórzyć dowolną melodię, rozmowę lub dźwięk usłyszany, nie dłuższy niż trzy minuty."
+    },
+    {
+        "name": "Snajper",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Karabiny": 6,
+            "Percepcja": 14
+        },
+        "additional": null,
+        "describe": "Dwadzieścia minut mierzenia, jedna sekunda na strzał i cała wieczność w trumnie dla tego gościa, którego miałeś na celowniku.",
+        "effect": "Celownik optyczny zmniejsza trudność trafienia celu o -80% zamiast standardowego -40% ale tylko w przypadku snajperki."
+    },
+    {
+        "name": "Spać na wodzie",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Pływanie": 5
+        },
+        "additional": null,
+        "describe": "Kiedyś miałem zakład z kumplem. Twierdził, że nie potrafi utonąć. No to ja mu mówię - masz tę butlę i leż na wodzie. Położył się. Przywiązałem mu kamol do nogi, trochę go ściągnęło, ale wciąż był na powierzchni. Związałem mu ręce, żeby nie machał, a on pływa jak cholerny pniak. W końcu się wściekłem i polazłem po coś cięższego. Jak wróciłem to spał. Normalnie zasnął na wodzie, dasz wiarę?",
+        "effect": "Na spokojnej wodzie Bohater utrzymuje się bez wysiłku przez wiele godzin."
+    },
+    {
+        "name": "Strzelec kieszonkowy",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Pistolety": 2,
+            "Spryt": 10,
+            "Percepcja": 10
+        },
+        "additional": null,
+        "describe": "Marcus jest pacyfistą, to znaczy, że nigdy nie wyciąga na nikogo broni. Naprawdę nigdy. A jak już musi kogoś wykończyć, to ostateczność. Bardzo nie lubi używać tej swojej Sztuczki, bo za każdym razem musi potem cerować kieszeń w płaszczu. Ale dzięki temu nadal jest pacyfistą.",
+        "effect": "Nie otrzymujesz dodatkowych utrudnień za strzał z kieszeni (broń schowana w kieszeni) lub z biodra. Sztuczka odnosi się tylko do pistoletów i rewolwerów."
+    },
+    {
+        "name": "Szachista",
+        "book": "Neuroshima Edycja 1.5",
+        "or": {
+            "Bijatyka": 4,
+            "Broń ręczna": 4
+        },
+        "and": null,
+        "additional": null,
+        "describe": "Słyszałeś o Szachiście? No to ci powiem, że to taki facet, którego się nie da trafić, chyba, że z pistoletu. Będzie biegał i unikał tak długo, aż ci się odechce walki. A wtedy on zaproponuje ci partyjkę szachów na rozstrzygnięcie sporu.",
+        "effect": "Decyzję należy podjąć na początku tury, przed rzutem 3k20 lub przed testem Inicjatywy. Walczący oddaje Inicjatywę, ale za to otrzymuje bonus +3 do Zręczności w obronie, do czasu, aż sam nie przejmie Inicjatywy. Sztuczka może niejednemu uratować tyłek, gdy stwierdzi, że w tej walce nie ma szans i lepiej poczekać na kolegów."
+    },
+    {
+        "name": "Szósty zmysł",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Czujność": 7,
+            "Percepcja": 14
+        },
+        "additional": null,
+        "describe": "Oto sztuka medytacji według starej indiańskiej szkoły Sun Tsu, czy jakoś tak. Ja to robię od lat. Na początku zauważysz, że jesteś czujniejszy. Ten etap Indianie nazywali etapem pumy. Potem zwiększy się twoja szybkość. To etap kobry. Na końcu staniesz się prawdziwym magikiem. To etap systemu wczesnego ostrzegania, czy jakoś tak.",
+        "effect": "Raz na dzień możesz uskoczyć przed zagrożeniem, zanim to się pojawi (cios z zaskoczenia, kula snajpera, spadający głaz, mina itd.) Działa to tak, jakbyś na ten moment uzyskał kosmiczny refleks z odrobiną jasnowidztwa. Przesuwasz się o metr - inaczej mówiąc, nie uciekniesz przed lawiną, jeśli musiałbyś w tym celu przebiec 100 metrów w sekundę. O użyciu Sztuczki musisz zdecydować przed ewentualnym testem uniku przeciwko jednej akcji przeciwnika. (lecz musisz poświęcić na to tyle samo segmentów, co przeciwnik)."
+    },
+    {
+        "name": "Sztuczki karciane",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Zwinne dłonie": 8,
+            "Spryt": 12
+        },
+        "additional": null,
+        "describe": "W większość gier karcianych chodzi o to, by mieć dobre karty na ręce. Więc jak masz sprawne łapki i wiesz choć w przybliżeniu, które karty to \"dobre karty\", to zwycięstwo masz w kieszeni. Mam rację, prawda? No więc... Sam zobacz - co napisane jest w opisie działania tej Sztuczki!",
+        "effect": "Bohater wygrywa każdą grę karcianą, pod warunkiem, że nie gra z osobą, która posiada tę Sztuczkę."
+    },
+    {
+        "name": "Sztuka jest sztuka",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Rusznikarstwo": 2
+        },
+        "additional": null,
+        "describe": "Jak mawia stare przysłowie, jeśli ma lufę i cyngiel, to znaczy, że strzela. Ot, cokolwiek znajdziesz, bez względu na to, czy to strzelba z czasów napoleońskich, czy z okresu wojny w Wietnamie, bez względu na to czy jest zapiaszczona, czy zapaćkana jakimś szambem - doprowadzisz ją do użyteczności.",
+        "effect": "Bohater poświęca kilka godzin, by oczyścić i doprowadzić do stanu używalności dowolną zabrudzoną, pordzewiałą czy zaciętą broń palną. Sztuczka pozwala na naprawienie broni uszkodzonej w skutek fatalnego zacięcia się."
+    },
+    {
+        "name": "Szybki Bill",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Zręczność": 14
+        },
+        "additional": null,
+        "describe": "Mam kumpla w Detroit, mówimy na niego suseł, wiesz czemu? Bo jak przychodzi do strzelaniny, to gość sadzi takie susy...",
+        "effect": "W jednym segmencie możesz pokonać dwa razy większy dystans niż normalnie."
+    },
+    {
+        "name": "Szybki rzut",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Rzucanie": 4,
+            "Zręczność": 12
+        },
+        "additional": null,
+        "describe": "Jest taka scena w filmie Desperado, jak będziesz kiedyś w Vegas, wpadnij tam sobie do kina, często puszczają ten film. Tam gość nożami wykończył coś z ośmiu chłopa, mimo, że mieli broń maszynową. Dasz wiarę? Był szybszy od nich...",
+        "effect": "Rzut zajmuje tylko jeden segment."
+    },
+    {
+        "name": "Szybkie strzelanie",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Łuk": 4,
+            "Budowa": 12
+        },
+        "additional": null,
+        "describe": "\"Łuk maszynowy\" - taką karteczkę raz przywiązaliśmy jednemu czerwonoskóremu na południu Teksasu. Facet uśmiechnął się i nawet jej nie zerwał, widać połechtaliśmy jego próżność. No ale trzeba przyznać, nie wzięliśmy tej karteczki z księżyca. Gość strzelał z tego łuku jakby miał podajnik strzał na taśmie... Wieczorem zrobił nam pokaz, niewiarygodny widok.",
+        "effect": "Dobycie strzały zajmuje Bohaterowi 1 segment, strzał kolejny 1 segment, dobycie 1 segment itd."
+    },
+    {
+        "name": "Śrutobranie",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Karabiny": 4
+        },
+        "additional": null,
+        "describe": "Mutki siedziały ukryte w bunkrze. Chciałem wrzucić im granat, ale Franz ściągnął z ramienia śrutówkę i wycedził: \"No to mutasy, czas na śrutobranie. Bierzcie koszyki\" I jak zaczął do nich walić, to aż się duszno zrobiło. No nie powiem, śrutobranie się udało, każdy z mutków zebrał coś po pół kilo, choć nie do koszyczka, lecz w korpus. Ale to detal.",
+        "effect": "Przeładowanie śrutówki i strzał zajmują razem tylko 1 segment, lecz Bohater otrzymuje +30% utrudnienia do testów trafienia."
+    },
+    {
+        "name": "Taran",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Broń ręczna": 4,
+            "Budowa": 14
+        },
+        "additional": null,
+        "describe": "Każdy głupi wie, że jak ktoś się na ciebie porządnie zamachnie, to lepiej się zawczasu odsunąć. Gorzej, gdy cwaniak robi to tak, że nawet nie zauważysz. Spokojnie się zasłaniasz, a tu nagle \"dup\" - i ręka ci drętwieje od ciosu.",
+        "effect": "Decyzję należy podjąć na początku tury, przed rzutem 3k20. Dotyczy cięższych i dłuższych broni, jak pałki, młoty, miecze, łańcuchy itp. Walczący otrzymuje karę -4 do Zręczności, lecz zadane obrażenia są o poziom większe."
+    },
+    {
+        "name": "Taranowanie",
+        "book": "Neuroshima Edycja 1.5",
+        "or": {
+            "Ciężarówka": 3,
+            "Samochód": 3
+        },
+        "and": null,
+        "additional": null,
+        "describe": "Jak mi moja bryka odmówiła posłuszeństwa, to załapałem się na autostop - podwoził mnie gość w takiej całkiem niemałej ciężarówce. Wóz mi się bardzo podobał, nawet mu mówiłem: \"No kurcze, super bryka, radio, ogrzewanie, wszystko widać z góry, tu lodóweczka, tam miejsce na nocleg. Szefie, masz pan tu jak w raju! Lubisz ten komfort, co?!\" Wiesz co mi odpowiedział? \"Ja to jednak najbardziej sobie cenię taranowanie gangerów\"",
+        "effect": "Kierowca nie otrzymuje utrudnień do testów Prowadzenia pojazdu podczas taranowania innej maszyny."
+    },
+    {
+        "name": "Targowanie się",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Niezłomność": 7,
+            "Perswazja": 4
+        },
+        "additional": null,
+        "describe": "Moja największa wtopa? Poszedłem na bazar w Salt Lake i nieopatrznie wdałem się w rozmowę z jakimś handlarzem. Po godzinie wymieniłem nowiutki kevlar na medalik ze świętym Antonim.",
+        "effect": "Podczas testów handlu przeciwnik zdaje o poziom wyższe testy Niezłomności."
+    },
+    {
+        "name": "To się robi tak",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Zdolności przywódcze": 3
+        },
+        "additional": null,
+        "describe": "Gadał, gadał nawet ciekawie, i jakoś tak przysłuchiwałem się... Minutę potem zacząłem murować z chłopakami jakąś ścianę. A jak już ściana stanęła, facet mówi, że taki samotny ten mur. No to dorobiliśmy jeszcze trzey ściany. Bez dachu głupio wyglądało, więc gość powiedział nam jak dorobić dach.",
+        "effect": "Po udanym teście Zdolności przywódczych, Bohater może pokierować niewykwalifikowanymi pracownikami. Na czas jednego zadania, uzyskują oni na poziomie 1 znaną Bohaterowi Umiejętność, opartą o Spryt, którą posiada na poziomie 3+. Niby niewiele, ale likwiduje negatywny efekt Suwaka."
+    },
+    {
+        "name": "W mgnieniu oka",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Percepcja": 12,
+            "Wypatrywanie": 4
+        },
+        "additional": null,
+        "describe": "Kiedy wychylasz się zza osłony to nie zgrywaj turysty i nie rozglądaj się za przeciwnikiem, tylko rzuć okiem, a potem strzelaj. Taką radę usłyszałem wiele lat temu. I od tej pory tak właśnie załatwiam \"turystów\", którzy wychylają łeb i rozglądają się...",
+        "effect": "Nie tracisz segmentu, by po wychyleniu się zza osłony dostrzec wroga."
+    },
+    {
+        "name": "Walka dwiema broniami",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Broń ręczna": 5,
+            "Zręczność": 12
+        },
+        "additional": null,
+        "describe": "W zasadzie tylko raz w życiu widziałem kolesia, który machał dwiema broniami i sobie tym wcale nie przeszkadzał.",
+        "effect": "Normalne zasady nie dają żadnych bonusów za walkę dwiema broniami (może poza wyborem, czym w danym segmencie przywalić). Z tobą jest inaczej. Gdy walczysz dwiema broniami, możesz użyć dodatkowo połowę punktów Umiejętności walki tą drugą bronią."
+    },
+    {
+        "name": "Wiatrak",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Bijatyka": 2,
+            "Charakter": 12
+        },
+        "additional": null,
+        "describe": "Jeśli nie potrafisz walczyć, to zdradzę ci dobrą metodę: schowaj głowę i zasyp frajera pięściami od góry, coś z tego wyłapie, czegoś nie wyłapie, ale na mur się cofnie. Jeśli umiesz walczyć, to nadal jest to dobra metoda.",
+        "effect": "Decyzję należy podjąć na początku tury, przed rzutem 3k20. Jeśli walczący przeprowadza manewr Furia, bez względu na wynik walki nie może stracić w danej turze Inicjatywy (jeśli przeciwnik uzyska Inicjatywę, kara wynikająca z Furii działa - czyli walczący otrzymuje celny cios, jednak już w następnym segmencie walczący automatycznie odzyskuje Inicjatywę) Na koniec tury walczący otrzymuje karę +20% ze zmęczenia. Sztuczka odnosi się tylko do Bijatyki."
+    },
+    {
+        "name": "Wilk morski",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": null,
+        "additional": null,
+        "describe": "Wujek Domowa Robótka tak mnie związał, że posiniałem. Myślę sobie - \"albo mnie rozwiąże, albo wezwę pomoc\". A on mówi: \"Patrz ćwoku!\". Pociągnął za sznur i byłem wolny. Magik, psia krew.",
+        "effect": "Bohater potrafi wiązać całą masę dziwnych węzłów, które rozwiązać może tylko osoba z tą samą Sztuczką."
+    },
+    {
+        "name": "Właściwa twarz",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Blef": 3,
+            "Percepcja": 10,
+            "Charakter": 10
+        },
+        "additional": null,
+        "describe": "Czasem trzeba się uśmiechnąć, innym razem pokazać zdecydowanie i determinację. Skąd wiadomo, jak się zachować w danej sytuacji? Nie wiem, czy można się tego nauczyć. To chyba dar.",
+        "effect": "Odejmujesz jedno oczko na dowolnej z kości podczas wszystkich testów Charakteru."
+    },
+    {
+        "name": "Wracający bumerang",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Bumerang": 4,
+            "Zręczność": 12
+        },
+        "additional": null,
+        "describe": "Kupiłem kiedyś bumerang. To było oszustwo stulecia. Od trzech lat szukam tego gościa, który mi to wcisnął i w końcu gdzieś go spotkam. Najpierw handlarz rzucał bumerangiem, pokazywał, jakie to sprytne, jak wraca, gdy się rzuci... Kupiłem urządzenie za furę fajek, facet się szybko zwinął, a ja zostałem z tym cholerstwem. Głupi kij. Nigdy do mnie nie wrócił. Rzucałem nim ze sto razy - leciał w krzaki i nic. W końcu wywaliłem ten bumerang w jakiś kanion. Mam nadzieję, że się chociaż połamał.",
+        "effect": "Bohater potrafi tak rzucać bumerangiem, że ten wraca po trafieniu w cel i można go złapać."
+    },
+    {
+        "name": "Wyczekanie",
+        "book": "Neuroshima Edycja 1.5",
+        "or": {
+            "Bijatyka": 6,
+            "Broń ręczna": 6
+        },
+        "and": {
+            "Percepcja": 12
+        },
+        "additional": null,
+        "describe": "Pieprzony samuraj: Spokojnie czekał, aż do niego podbiegnę i przywalę mu łomem. W ostatniej chwili odsunął się, uniknął jeszcze dwa razy i nagle załadował mi na spamiętanie z kastetu prosto w nos. Dziś jesteśmy kumplami.",
+        "effect": "Decyzję należy podjąć na początku tury (gdy walczący nie posiada Inicjatywy), przed rzutem 3k20. Walczący otrzymuje w danej turze karę -2 do Zręczności w obronie, ale jeśli uda mu się przejąć Inicjatywę, to do końca tej tury otrzymuje bonus +4 do Zręczności w ataku."
+    },
+    {
+        "name": "Wyczucie emocji zwierząt",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Postrzeganie emocji": 2,
+            "Opieka nad zwierzętami": 2
+        },
+        "additional": null,
+        "describe": "Ci goście z pustyni, to są mutanty, bracie. Spojrzy taki na zwierzaka i mówi ci, na przykład, że wilczur jest głodny i wystarczy rzucić mu puszkę, a uspokoi się. W jaki sposób facet odróżnia wściekłość od głodu? Pewnie sam jest w jakiejś części zwierzęciem, nie sądzisz?",
+        "effect": "Bohater ma prawo do Przeciętnego testu Opieki nad zwierzętami. Jeśli go zda, może właściwie odczytać nastawienie napotkanego zwierzęcia i przewidzieć jego następne działanie (nie w walce!). Sztuczka nie dotyczy zmutowanych zwierząt."
+    },
+    {
+        "name": "Wyczucie promieniowania",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Czujność": 4,
+            "Spryt": 12
+        },
+        "additional": null,
+        "describe": "To tak jakby ci ktoś wsadził w dupsko Geigera. Jak tylko poziom promieniowania niebezpiecznie się podniesie - wyczujesz to.",
+        "effect": "Bohater zawsze wyczuwa niebezpieczny wzrost promieniowania."
+    },
+    {
+        "name": "Wyczucie zmian pogody",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Znajomość terenu": 2,
+            "Percepcja": 12
+        },
+        "additional": null,
+        "describe": "Wędrówka z cholernym Tropicielem to mordęga... Ale kilka rzeczy mi się u nich podoba. Przepowiadanie pogody, na ten przykład. Są lepsi od radia.",
+        "effect": "Po zdaniu Przeciętnego testu Percepcji, Bohater praktycznie bezbłędnie określi pogodę na najbliższy dzień."
+    },
+    {
+        "name": "Wyrabianie strzał i bełtów",
+        "book": "Neuroshima Edycja 1.5",
+        "or": {
+            "Łuk": 2,
+            "Kusza": 2
+        },
+        "and": {
+            "Spryt": 10
+        },
+        "additional": null,
+        "describe": "Jak dla mnie, to jedyny i wcale niezbyt przekonywujący powód, dla którego warto strzelać z łuku, a nie ze spluwy. Do łuku łatwiej dorobić amunicję.",
+        "effect": "Bohater bez większych problemów potrafi wykonać strzały do łuku lub bełty do kuszy."
+    },
+    {
+        "name": "Wytrych",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Otwieranie zamków": 4,
+            "Zręczność": 12
+        },
+        "additional": null,
+        "describe": "Zrobienie wytrycha to akurat nie jest żadna sztuka. Zrobisz go z wszystkiego, kawałka drutu, czy co tam masz pod ręką. Inna sprawa, że aby przekonać o tym Mistrza Gry, lepiej jednak mieć tę Sztuczkę. No cóż, kup, zaoszczędzisz sobie nieprzyjemności...",
+        "effect": "Bohater robi wytrych z \"byle czego\" - nie otrzymuje kary za brak profesjonalnego sprzętu podczas otwierania zamków mechanicznych."
+    },
+    {
+        "name": "Zagadanie",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Spryt": 12,
+            "Blef": 2,
+            "Zwinne dłonie": 2
+        },
+        "additional": null,
+        "describe": "OK, poddaję się; rozumiem. Widzę, żę masz większego. To Magnum? Niezły, ja mam tylko... tego Glocka.",
+        "effect": "Zagadujesz gościa i nawet jak nie miałeś dobytej broni, to już masz. Jeśli gość miał w ręce spluwę, a ty nie, to już obaj macie. Sztuczka nie działa w walce."
+    },
+    {
+        "name": "Zasłona",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Bijatyka": 2,
+            "Budowa": 12
+        },
+        "additional": null,
+        "describe": "Ten Chinol, o którym już wspomniałem, roztoczył wokół rąk pole siłowe. Tak nimi machał, że gdzie nie chciałeś go huknąć, napotykałeś opór! Ja szybko, on jeszcze szybciej. Ja mocno, on niewzruszony. Ja toporem, a on mi dup, kopniak w jaja. O rzesz, głupi Chinolu...",
+        "effect": "Decyzję należy podjąć na początku tury, przed rzutem 3k20. Walczący otrzymuje bonus +2 do Zręczności w obronie, ale za to w kolejnej turze otrzymuje karę -2 do Zręczności, zarówno w obronie, jak i w ataku."
+    },
+    {
+        "name": "Zgranie",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Rzucanie": 2,
+            "Zręczność": 12
+        },
+        "additional": null,
+        "describe": "Cholerni koszykarze, przyjechali prosto z Nowego Jorku na Front. Jednemu brakło amunicji? Żaden problem, ciach-mach i już ma od kolegi. Tamten drugi potrzebuje w zamian granat? Ciach-mach, gotowe.",
+        "effect": "Dwóch gości z tą Sztuczką może rzucać do siebie dowolne lekkie przedmioty tak, że zarówno rzut jak i złapanie są automatycznie udane. Rzut na odległość do 5m trwa 1 segment, do 10 m -2 segmenty do 15m - 3 segmenty. Rzucane przedmioty muszą być w miarę lekkie i bezpieczne w łapaniu - np. zabezpieczony granat, pistolet, magazynek itd., a nie np. nóż czy karabin. Rzucać i łapać można nawet lewą ręką."
+    },
+    {
+        "name": "Zielony balonik",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Pistolety": 3,
+            "Percepcja": 14,
+            "Spryt": 10,
+            "Zręczność": 10
+        },
+        "additional": null,
+        "describe": "Potrzebuję dosłownie chwili spokoju, by w miejsce łba dowolnego fagasa wyobrazić sobie zielony balonik. A powiem ci, trafiania w dyndające zielone baloniki uczyłem się dwanaście lat.",
+        "effect": "Gdy podejdziesz do kogoś na odległość 1-5 metrów i wycelujesz w głowę, to dopóki ta odległość się nie zmieni, masz zapewniony automatyczny sukces trafienia jeńca w głowę. Możesz z nim wędrować, prowadzić go itd., a i tak nie stracisz go z \"celownika\". Nie można jednak z jeńcem biegać, wspinać się itp. W dowolnej chwili, np. gdy tylko jeniec zechce się wyrwać, wystarczy wygrać test Inicjatywy, a trafienie będzie automatyczne.Branie jeńca na cel nie może się odbyć w trakcie walki. W sytuacjach spornych należy przeprowadzić test na trafienie w głowę (czasem też wcześniejszy test Inicjatywy) - w przypadku sukcesu Sztuczka zadziałała. Sztuczka dotyczy tylko pistoletów i rewolwerów."
+    },
+    {
+        "name": "Zły",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Zastraszanie": 4,
+            "Charakter": 12
+        },
+        "additional": null,
+        "describe": "Eastwood mówi przyciszonym głosem, który słychać nawet na końcu stadionu. Spojrzenie ma takie, że człowiek myśli o obdzieraniu żywcem ze skóry i rozcinaniu piłą. Ten facet to chodzący Laxigen, spojrzysz i już masz srakę.",
+        "effect": "Przebywający w pobliżu mówiącego Bohatera ludzie muszą przejść Bardzo trudny test Morale lub otrzymują utrudnienie +10% do wszystkich akcji. Zwyczajnie trzęsą im się ręce."
+    },
+    {
+        "name": "Zmyłka",
+        "book": "Neuroshima Edycja 1.5",
+        "or": {
+            "Bijatyka": 5,
+            "Broń ręczna": 5
+        },
+        "and": {
+            "Spryt": 12
+        },
+        "additional": null,
+        "describe": "Zamachnąłem się w stronę gladiatora tak, że ledwo uskoczył i w dodatku stracił równowagę. Tak mi się przynajmniej wydawało do momentu, gdy chciałem wykorzystać przewagę. Nawet nie wiem, co się wtedy stało. Grunt, że w ogóle to przeżyłem.",
+        "effect": "Podczas walki wręcz, na czas 1 tury możesz do Umiejętności wwalki dodać swój Blef. Sztuczkę można użyć tylko 1 raz przeciwko temu samemu przeciwnikowi."
+    },
+    {
+        "name": "Żelazne racje",
+        "book": "Neuroshima Edycja 1.5",
+        "or": null,
+        "and": {
+            "Łowiectwo": 2
+        },
+        "additional": null,
+        "describe": "Nie lubię suszonego mięsa - smakuje jak podeszwa buta. Z drugiej strony nie narzekam. Jadłem już koty i komary widliszki. Bywały miesiące, że jedynie indiański susz utrzymywał mnie przy życiu. Bez dwóch zdań, konserwacja żywności to przydatna Sztuczka.",
+        "effect": "Bohater potrafi zakonserwować żywność, którą zdobył (mięso, wypieki, itp.) Jedzenie nie zepsuje się przez kilka miesięcy."
+    },
+    {
+        "name": "Dwuręczność",
+        "book": "Gladiator",
+        "or": null,
+        "and": {
+            "Zręczność": 14,
+            "Broń ręczna": 5
+        },
+        "additional": null,
+        "describe": "Po to masz dwie ręce, żeby walić wroga po mordzie obiema. Wiesz, do jednej młotek, do drugiej pałę i machasz jak śmigłowiec.",
+        "effect": "Można władać dwiema brońmi naraz. Dzięki temu masz 4 segmenty w rundzie zamiast standardowych trzech, pod warunkiem, że w danej rundzie używasz obydwu broni. Ponadto akcje przeprowadzane tą drugą bronią są utrudnione dodatkowo o 40%"
+    },
+    {
+        "name": "Wiedziałem, że to zrobisz",
+        "book": "Gladiator",
+        "or": null,
+        "and": {
+            "Postrzeganie emocji": 7
+        },
+        "additional": null,
+        "describe": "Telepata czy co? Patrzy się spode łba, analizuje każde najdrobniejsze drgnięcie twoich mięśni i przewiduje każdy twój atak. Robisz wypad - a on chwilę wcześniej odskok. Rąbiesz z góry, a on już ma nad głową tarczę. Cholery można dostać.",
+        "effect": "Po wykonaniu udanego Bardzo Trudnego testu Postrzegania emocji (wykonanego przed walką z danym przeciwnikiem), bohater jest w stanie przewidzieć następne posunięcie przeciwnika mutanta. Wszystkie twoje Bloki w tej walce są łatwiejsze o 20%"
+    },
+    {
+        "name": "Oburęczność",
+        "book": "Gladiator",
+        "or": {
+            "Broń ręczna": 3,
+            "Sztuki walki": 3
+        },
+        "and": {
+            "Zręczność": 14
+        },
+        "additional": null,
+        "describe": "Lewa, prawa - bez różnicy",
+        "effect": "Niezależnie od tego, w której ręce trzyma się oręż, nie dostaje się karnego modyfikatora za używanie niewyćwiczonej ręki."
+    },
+    {
+        "name": "Salto",
+        "book": "Gladiator",
+        "or": {
+            "Zręczność": 15,
+            "Sztuki walki": 15
+        },
+        "and": null,
+        "additional": null,
+        "describe": "Koleś był niesamowity. Doskakiwał do przeciwnika, żeby zadać mu cios i w jednej chwili był parę kroków od niego. Czy to z użyciem rąk, czy to odbijając się od ściany, zachowywał się, jakby przyciąganie na niego nie działało.",
+        "effect": "W efektowny sposób można zastosować zasady odskakiwania (poprzez salta, przewrotki i inne cuda). Przeciwnik nie zdobywa automatycznie Inicjatywy, lecz wykonuje się test Inicjatywy."
+    },
+    {
+        "name": "Szarża",
+        "book": "Gladiator",
+        "or": {
+            "Broń ręczna": 3,
+            "Sztuki walki": 3,
+            "Bijatyka": 3
+        },
+        "and": null,
+        "additional": null,
+        "describe": "Nie zawsze jest czas na przydługawe pojedynki, co nie? Zupa stygnie, a kolo co chwila odskakuje, łazi z miejsca w miejsce i nie chce się porządnie bić jak człowiek. Mamy na takiego sposób. Szarża ... i idziesz dokończyć zupę.",
+        "effect": "Możesz wykonać szarżę w połączeniu z każdym typem ataku wręcz lub bronią białą. W jej efekcie PT ataku obniża się o 30%, lecz w turze przeciwnika nie będzie można wykonywać uników."
+    },
+    {
+        "name": "Wyczulenie",
+        "book": "Gladiator",
+        "or": null,
+        "and": {
+            "Spryt": 14,
+            "Broń ręczna": 4
+        },
+        "additional": null,
+        "describe": "Co próbował ciąć, tamten już miał przygotowany w tym miejscu blok. Starał się kopnąć go z zaskoczenia, przeciwnik odskoczył chwilę przed uderzeniem. Jakiś szósty zmysł, czy co?",
+        "effect": "Przewidujesz ruchy przeciwnika, przez co otrzymuje on 10% utrudnienia do ataku."
+    },
+    {
+        "name": "Zbrojmistrz",
+        "book": "Gladiator",
+        "or": null,
+        "and": {
+            "Zręczność": 12,
+            "Spryt": 12,
+            "Broń ręczna": 4
+        },
+        "additional": null,
+        "describe": "Kiedyś to była kupa śmieci: połamana miotła, spleśniały dywanik, trochę kabla i mały akumulator z żyrohulajnogi. Trochę nad tym posiedziałem. I oto Elektro-żyro-ciskawka. Trochę z tym poćwicz, a rozpieprzysz każdego.",
+        "effect": "Potrafisz stworzyć nietypową broń do walki wręcz z dowolnych częśći. Czynność trwa na tyle długo, że sztuczkę można wykorzystać tylko poza areną. Gracz ustala z MG wygląd, zasady działania i ewentualne modyfikatory wynikające z użycia broni. Konstrukcja okazuje się udana, jeśli zbrojmistrz wykona Trudny test broni białej. (ręcznej)"
+    },
+    {
+        "name": "Atomowe Uderzenie",
+        "book": "Gladiator",
+        "or": {
+            "Bijatyka": 7,
+            "Sztuki walki": 7,
+            "Broń ręczna": 7
+        },
+        "and": {
+            "Budowa": 16
+        },
+        "additional": [
+            "Profesja: Gladiator"
+        ],
+        "describe": "Nie wiem, jak on to robi. W pewnym momencie skupia w sobie całą energię, cały zapas sił i daje temu ujście w przedziwnym tańcu, w czasie którego wymachuje na wszystkie strony. Jeśli nie zatrzymasz takiego wariata w odpowiednim momencie, zostaje z ciebie sito.",
+        "effect": "Gladiator skupia całą swą energię na zadanie najmocniejszego ciosu gołymi rękoma bądź daną bronią. Atak zajmuje całą rundę, w czasie której zawodnik wykonuje skomplikowany \"taniec\". W tym czasie przeciwnik może atakować z utrudnieniem 10%, przy czym na zablokowanie atomowego uderzenia (także z 10% utrudnieniem) może poświęcić tylko jeden segment. Udany atak zadaje krytyczne obrażenie. Nie można wykonać AU w tłoku, w ciasnych pomieszczeniach, będąc pochwyconym, przewróconym ani też, gdy sami kogoś trzymamy lub obezwładniamy."
+    },
+    {
+        "name": "Counterstrike",
+        "book": "Gladiator",
+        "or": null,
+        "and": {
+            "Zręczność": 12
+        },
+        "additional": [
+            "Profesja: Gladiator"
+        ],
+        "describe": "Rob zamachnął się na tego skurczybyka, a tamten, jakby nigdy nic, odbił jego uderzenie. Na ułamek sekundy mój kumpel został wybity z rytmu, bez osłony. Wtedy tamten gladiator wpakował mu nadziak w żebro.",
+        "effect": "Z tej sztuczki można korzystać w czasie rundy przeciwnika. Zamiast standardowego bloku lub uniku gladiator może odbić atak drugiego wojownika, wystawiając go w ten sposób na otwarty atak. Gladiator musi wykonać lepszy rzut na atak (wyrzucić mniej) niż jego przeciwnik, dzięki czemu zadaje lekkie obrażenie. Jeśli jednak wyrzuci więcej - zmarnowałeś swój 1 segment, który mogłeś wykorzystać np. na normalny blok. Można wykonać tylko jeden counterstrike w rundzie przeciwnika."
+    },
+    {
+        "name": "Człowiek z żelaza",
+        "book": "Gladiator",
+        "or": null,
+        "and": {
+            "Budowa": 12,
+            "Odporność na ból": 1
+        },
+        "additional": [
+            "Profesja: Gladiator"
+        ],
+        "describe": "Był o głowę wyższy ode mnie. Zadawałem mu ciosy, które innych dawno zmusiłyby do poddania. A on szedł i szedł i parł na mnie.",
+        "effect": "Niewleuje negatywne efekty wynikające z ran o 10%"
+    },
+    {
+        "name": "Zorro",
+        "book": "Gladiator",
+        "or": {
+            "Broń ręczna": 3,
+            "Sztuki walki": 3
+        },
+        "and": null,
+        "additional": [
+            "Profesja: Gladiator"
+        ],
+        "describe": "Zorro to był gość, który potrafiłby wyciąć szpadą swoją ksywkę na twoim ubranku.",
+        "effect": "Tę sztuczkę należy wykupić oddzielnie dla każdej broni. Dzięki niej gladiator obniża PT ataku o 10% w wybranym orężu."
+    },
+    {
+        "name": "Okrzyk bojowy",
+        "book": "Gladiator",
+        "or": null,
+        "and": {
+            "Charakter": 12
+        },
+        "additional": [
+            "Profesja: Gladiator"
+        ],
+        "describe": "Tylko weź wcześniej Tic Taca.",
+        "effect": "Zanim nastąpi pierwsze zwarcie, gladiator wydaje z siebie przeraźliwy okrzyk, dzięki czemu automatycznie otrzymuje jeden sukces w teście na zasadach \"Najpierw spójrz mi w oczy\""
+    },
+    {
+        "name": "Proszkiem w oczy",
+        "book": "Gladiator",
+        "or": null,
+        "and": {
+            "Spryt": 14
+        },
+        "additional": [
+            "Profesja: Gladiator"
+        ],
+        "describe": "Wyraźnie było widać, że Inga rozłoży go lada chwila. Niszczyła mu mordę kopem za kopem. W jednej chwili tamten dmuchnął jej jakimś proszkiem w oczy i w jednej sekundzie szala zwycięstwa przechyliła się na stronę jej przeciwnika. Trzymała się nieruchomo za twarz, wystawiona na ostateczny cios.",
+        "effect": "Gladiator ma przygotowane w zanadrzu kilka tricków, które wykorzystuje, by osłabić koncentrację przeciwnika. Może to być piasek dmuchnięty w oczy albo słaby środek nasenny wbity przez skórę. Efekt utrzymuje się przez jedną rundę i powoduje utrudnienie PT ataku oraz działań defensywnych przeciwnika o 30%. Użycie sztuczki zajmuje jeden segment i można ją wykorzystać tylko raz w czasie całego pojedynku. Dodatkowo, jeśli gladiator chce, żeby nikt z gapiów nie zauważył brudnego tricku, musi zdać Bardzo Trudny test Sprytu."
+    },
+    {
+        "name": "Płatnerz",
+        "book": "Gladiator",
+        "or": null,
+        "and": {
+            "Zręczność": 12,
+            "Spryt": 14
+        },
+        "additional": [
+            "Profesja: Gladiator"
+        ],
+        "describe": "Pokrywy Elektroluksa to ostatni krzyk mody! Z rynny i drutu też da się coś wykombinować. Ale z wełny na pewno nie zrobisz kevlaru, zakład?",
+        "effect": "Gladiator potrafi stworzyć pancerz z zebranych to tu, to tam części. Czynność trwa na tyle długo, że sztuczkę można wykorzystać tylko poza areną. Gracz ustala z MG wygląd oraz wartość osłony (lekka, ciężka). Pancerz będzie spełniał swoje zadanie jeśli płatnerzowi uda się wykonać Trudny test Sprytu."
+    },
+    {
+        "name": "Szczęśliwy los",
+        "book": "Gladiator",
+        "or": null,
+        "and": {
+            "Spryt": 14
+        },
+        "additional": [
+            "Profesja: Gladiator"
+        ],
+        "describe": "Garry leżał na arenie. Broń odrzuciło mu na parę stóp. Wydawało się, że nic go nie uratuje przed spadającym uderzeniem. Wtedy, nie do końca wiem jak, rzucił się po nóż i wbił go w udo zaskoczonego gladiatora.",
+        "effect": "Raz w czasie całego pojedynku jeden na jeden, gladiator może ponowić nieudany rzut kością."
+    },
+    {
+        "name": "Żelazny wojownik",
+        "book": "Bohater do kwadratu",
+        "or": null,
+        "and": {
+            "Bijatyka": 3
+        },
+        "additional": [
+            "cybernetyczna ręka"
+        ],
+        "describe": "Ten wielki facet podszedł do mnie w barze i powiedział: \"Sarah Connor. Na ziemię\". Uniósł do góry rękę, więc uchyliłam się. Ja patrzę, a gość zablokował ramieniem cios jakiegoś wariata z długim nożem!\"",
+        "effect": "Możesz posługiwać się cybernetyczną ręką jak lekką tarczą. Jeśli ręka otrzyma obrażenia, które ją uszkadzają (patrz opisy), traci wszystkie swoje funkcje, ale nadal można ją traktować jak tarczę."
+    },
+    {
+        "name": "Dr Frankenstein",
+        "book": "Bohater do kwadratu",
+        "or": null,
+        "and": {
+            "Elektronika": 2,
+            "Mechanika": 2,
+            "Chirurgia": 5
+        },
+        "additional": null,
+        "describe": "Był zadowolony ze swojej ksywki i ze swojego nazwiska. Całymi dniami ślęczał nad swoim pacjentem pogwizdując \"Wesele Figaro\". W ciągu miesiąca zastąpił mu całe ciało metalowymi częściami i ani razu nie sfuszerował. A co na to pacjent? Nic, był przecież przyśrubowany do stołu i pozbawiony szczęki.",
+        "effect": "Instalując wszczepy nie musisz wykonywać drugiego rzutu na Chirurgię, określającego, czy pacjent przeżył. Elektronika i Mechanika stają się umiejętnościami wspomagającymi Chirurgię, jeśli rzut dotyczy biocybernetyki. Szansa na odrzucenie instalowanego przez ciebie wszczepu jest o 5% mniejsza."
+    },
+    {
+        "name": "Urodzony cyborg",
+        "book": "Bohater do kwadratu",
+        "or": null,
+        "and": {
+            "Budowa": 12
+        },
+        "additional": [
+            "można wybrać tylko na etapie tworzenia postaci"
+        ],
+        "describe": "Znałem kiedyś takiego melancholijnego gościa - snuł się ze zwieszoną głową i w ogóle życie mu się nie podobało. Potem poznał jakąś laskę z gangu Cyberpsychopatów i można powiedzieć, że coś między nimi zaiskrzyło. Całkowicie go odmieniła.",
+        "effect": "Organizm bohatera nigdy nie odrzuca wszczepów."
+    },
+    {
+        "name": "Wielkie stalowe bydle",
+        "book": "Bohater do kwadratu",
+        "or": null,
+        "and": {
+            "Charakter": 12
+        },
+        "additional": [
+            "widoczny wszczep"
+        ],
+        "describe": "Kiedy zobaczyliśmy go po raz pierwszy, nie wiedziałem czy strzelać, czy uciekać. Potem jakoś skumplował się z naszą grupą, ale dotąd nie pozwalamy, żeby sam stał na warcie.",
+        "effect": "Za każde widoczne cyber-usprawnienie otrzymujesz premię +1 do Zastraszania i karę -1 do Perswazji i Postrzegania emocji. Maksymalna premia to +5, a Perswazja i Postrzeganie emocji nie mogą spaść poniżej 0. Bonus do Zastraszania nie ma wpływu na suwak."
+    },
+    {
+        "name": "Widzieliście tego siedmionogiego mutanta?",
+        "book": "Bohater do kwadratu",
+        "or": null,
+        "and": {
+            "Spryt": 10,
+            "Blef": 4
+        },
+        "additional": null,
+        "describe": "Sam bym w to nie uwierzył, gdybym nie widział na własne oczy. Ten gość miał ponad 4 metry wzrostu, dlatego właśnie musiał jeździć tym pieprzonym kabrioletem!",
+        "effect": "W każej nowej dziurze, do jakiej zawitasz, możesz sprzedać najdziwniejszą historię, jaką mieli okazję usłyszeć w swoim życiu jej mieszkańcy. Dajesz niezłe widowisko - ludzie się schodzą, a opowieść trwa i trwa. W jej trakcie uda ci się wyłudzić od słuchaczy 2k20 gambli (w postaci losowych przedmiotów). Jeden minus - zmykaj przed świtem, zanim się połapią i nigdy tam nie wracaj, bo w najlepszym razie powieszą cię za jaja. Chyba, że jesteś kobietą..."
+    },
+    {
+        "name": "Wracam właśnie z północy",
+        "book": "Bohater do kwadratu",
+        "or": {
+            "Postrzeganie emocji": 2,
+            "Blef": 2
+        },
+        "and": {
+            "Spryt": 10
+        },
+        "additional": null,
+        "describe": "Facet wchodzi do baru, olewa wszystkich siedzących kiziorów i z miejsca zaczyna gadać, jakby wszyscy na to czekali: Wracam właśnie z jednej dziury, dzień drogi stąd, na południu. Siedziałem sobie tam w jednej spelunie, nie takim lokalu jak ten! Nagle drzwi się otwierają i wchodzi Meksykaniec, wielki jak kurwa mać...",
+        "effect": "Potrafisz wyczuć nastrój słuchaczy i podkoloryzować to, co masz do powiedzenia. Wystarczy kilka słów, a ludzie postawią ci piwo lub obiad, byle byś tylko dokończył. Jeśli chcesz podbić cenę informacji, wykonaj test Blefu lub Postrzegania emocji. Sam określasz PT tego testu - utrudnienie wynosi tyle procent, ile procent więcej chcesz dostać gambli w zamian za info."
+    },
+    {
+        "name": "Świńskie oczka",
+        "book": "Bohater do kwadratu",
+        "or": null,
+        "and": {
+            "Spryt": 12,
+            "Postrzeganie emocji": 4
+        },
+        "additional": null,
+        "describe": "No stary, masz dzisiaj pecha i chyba jednak nie dobijemy targu. Nie wiem co to jest, ale na pewno nie detektory ruchu. Skąd wiem? Twoje świńskie oczka mi to mówią.",
+        "effect": "Potrafisz rozpoznać handlarza oszusta. Jeśli próbuje Cię okantować podczas dobijania targu, on zdaje swój test Blefu zwyczajnie, a ty dwa razy łatwiejszy test Niezłomności. No i co? Niech teraz próbuje swych sztuczek."
+    },
+    {
+        "name": "Ten jest uczciwy",
+        "book": "Bohater do kwadratu",
+        "or": null,
+        "and": {
+            "Postrzeganie emocji": 5
+        },
+        "additional": null,
+        "describe": "Znał się na ludziach jak nikt inny. Patrzył na gości w knajpie i mówił: ten jest morderca, ten zwykły złodziej, ten bandyta, ten oszust, a ten... O? Ten jest uczciwy!",
+        "effect": "Gdy zatrudniasz najemnika, pomocnika, kierowcę itd., widzisz jaka jest szansa, że ten zechce cię okraść gdy nadarzy się okazja. Dostrzeżesz też w każdej chwili, czy coś się u opłacanego najemnika zmieniło. (drżące lekko ręce, uciekające w bok oczy, niepewny głos itp.) i dał się jednak skusić. Potrafisz wybrać z tłumu gościa całkiem uczciwego, który na pewno cię nie okradnie (bo ma zasady). Taki unikat zdarza się mniej więcej raz na piętnastu, a po przeprowadzeniu krótkich rozmów ty wiesz, który to jest. Sztuczka nie działa na zawodowych Złodziei."
+    },
+    {
+        "name": "Test jakości",
+        "book": "Bohater do kwadratu",
+        "or": {
+            "Mechanika": 4,
+            "Elektronika": 4
+        },
+        "and": {
+            "Spryt": 10
+        },
+        "additional": null,
+        "describe": "To powiedz mi jeszcze przyjacielu, czemu ten pistolet tak śmierdzi mydłem?",
+        "effect": "Gdy dostaniesz w swoje łapska mechaniczny lub elektroniczny gambel, potrafisz go tak \"prześwietlić\", że stwierdzisz czy jest dobry, czy to atrapa lub bubel. Test jakości niweluje działanie sztuczki Zadziała jeszcze raz."
+    },
+    {
+        "name": "Zadziała jeszcze raz",
+        "book": "Bohater do kwadratu",
+        "or": {
+            "Mechanika": 5,
+            "Elektronika": 5
+        },
+        "and": null,
+        "additional": null,
+        "describe": "Mój stary nauczyciel mawiał: Jak nie umiesz naprawić czegoś dla klienta, napraw to połowicznie. Łatwo mu mówić, on był wędrownym mechanikiem, a ja mam warsztat w Detroit. Aha, dodawał jeszcze: Napraw i spieprzaj!",
+        "effect": "Jeśli nie da się naprawić jakiegoś gambla, możesz spróbować naprawić go \"połowicznie\" - tak, by podziałał choćby przez chwilę (np. zadziała raz, a przy drugim się prawie rozsypie). PT testu Mechaniki ustala MG. Sztuczka ta dotyczy małych urządzeń mechanicznych lub elektronicznych (kamery, komputery, szmery bajery). Nie dotyczy wielkich maszyn, pojazdów itp. Jeśli rzecz wymaga do działania energii, musisz jej dostarczyć. Nie da się dwa razy \"naprawiać\" tego samego gambla. Jeśli MG uzna coś za przegięcie (np. uruchomienie TV z samej ramy), to na pewno ma rację i sztuczka nie zadziała."
+    },
+    {
+        "name": "Maska handlarza",
+        "book": "Bohater do kwadratu",
+        "or": null,
+        "and": {
+            "Spryt": 14,
+            "Blef": 4
+        },
+        "additional": null,
+        "describe": "Gdy przystępujesz do targów, zmieniasz się w prawdziwego zawodowca. Możesz łgać do woli i sprzedać kozie bobki jako lek na Morbus Dexteri. Mogą ci zaglądać w oczy i kazać przysięgać na własną głowę, a i tak zbałamucisz ich jak dzieci.",
+        "effect": "Twój Blef wzrasta dwukrotnie. Sztuczka dotyczy tylko handlu. Dodatkowo blokuje wszystkie sztuczki rozpoznawania emocji."
+    },
+    {
+        "name": "Poker",
+        "book": "Bohater do kwadratu",
+        "or": null,
+        "and": {
+            "Spryt": 14,
+            "Postrzeganie emocji": 4
+        },
+        "additional": null,
+        "describe": "Nie ma dziś oficjalnych katalogów ani towarzystwa jednolitych cen, gdzie się ruszysz, tam wszystko co wiesz o wartości towarów staje na głowie. Gdy trafiasz do zafajdanej dziury, skąd masz wiedzieć, czy tutejszy handlarzyna oferując ci gogle sprzedaje tanio unikat czy też robi z ciebie frajera i zaraz okaże się, że tu skrzynkami gogli strzela się z katapulty?",
+        "effect": "Potrafisz odczytać emocje z twarzy handlującego. Wiesz, ile jesteś w stanie wycisnąć z gościa podczas targu, wiesz, jaka cena go zadowoli, do ilu gambli jest w stanie zejść."
+    },
+    {
+        "name": "Standardowa maszynka",
+        "book": "Bohater do kwadratu",
+        "or": null,
+        "and": {
+            "Mechanika": 4,
+            "Elektronika": 2
+        },
+        "additional": [
+            "Pochodzenie: Posterunek lub Profesja: Zabójca maszyn"
+        ],
+        "describe": "Tim zawsze pierwszy wyskakiwał z okopu i dopadał do rozwalonych, dymiących jeszcze robotów. Saperką podważał pancerz i gmerał w środku, jakby dobrze wiedział czego szuka. Bo i wiedział. A za każdym razem wracał z innym trofeum. Cwany gość, znał się na tych maszynkach jakby sam je składał.",
+        "effect": "Bohater może wymontowywać elementy o Zakamuflowaniu większym o dwa poziomy, i to bez ich automatycznego uszkodzenia."
+    },
+    {
+        "name": "Okiem konesera",
+        "book": "Bohater do kwadratu",
+        "or": null,
+        "and": {
+            "Mechanika": 3,
+            "Elektronika": 2
+        },
+        "additional": [
+            "Pochodzenie: Posterunek lub Profesja: Zabójca maszyn"
+        ],
+        "describe": "Już chciałem przywalić swoim młotem w ten blaszany łeb, gdy nagle Tim wrzeszczy: Nie w głowę, zniszczysz nooo-ktooo-wi-zooo-ry!!!",
+        "effect": "Potrafisz ocenić, jakie cenne elementy posiada \"żywa\" jeszcze maszyna. Musisz w tym celu zdać test Mechaniki: Problematyczny - w przypadku częściej spotykanego robota, Trudny - w przypadku rzadko spotykanego. Dotyczy znanych maszyn."
+    },
+    {
+        "name": "Delikatne zniszczenie",
+        "book": "Bohater do kwadratu",
+        "or": null,
+        "and": {
+            "Mechanika": 3
+        },
+        "additional": [
+            "Pochodzenie: Posterunek lub Profesja: Zabójca maszyn"
+        ],
+        "describe": "Jak tak wędrowałem przez pięć lat z Timem, to w końcu nauczyłem się ukręcać łby mniejszym robotom tak delikatnie, by nie ucierpiał na tym żaden cenny układ. I wtedy wreszcie Tim przestał ględzić.",
+        "effect": "Walcząc z maszyną możesz zwiększyć sobie PT o poziom, a dzięki temu po walce okaże się, że nie ucierpiał na tym żaden element w robocie. Wystarczy jednak, aby w którymkolwiek momencie walki ktoś zadał robotowi uszkodzenia w normalny sposób a Sztuczka nie zadziała. Używana Umiejętność walki (strzelania lub wręcz) musi wynosić 3 lub więcej."
+    },
+    {
+        "name": "To się ledwie trzyma",
+        "book": "Bohater do kwadratu",
+        "or": null,
+        "and": {
+            "Mechanika": 2
+        },
+        "additional": null,
+        "describe": "Patrz, Mahoney, chyba mamy dziś szczęście. Ten CKM odpadł zupełnie sam. Myślisz, że to pułapka?",
+        "effect": "Możesz wymontować z każdej zniszczonej maszyny 1 element bez poświęcenia na to czasu i bez testu Mechaniki. Zakamuflowanie nie może być większe od Mechaniki, czas - maksymalnie 1 godzina, zaś Trudność wymontowania - maksymalnie problematyczna."
+    },
+    {
+        "name": "Koder specjalista",
+        "book": "Bohater do sześcianu",
+        "or": null,
+        "and": {
+            "Komputery": 3
+        },
+        "additional": null,
+        "describe": "Siedliśmy z Haroldem przy ognisku i tak mi się jakoś zebrało na serdeczności. Mówię do niego: \"Pies cię trącał, fajny jesteś gość, chociaż Spec. Możesz zostać moim kumplem, pogadajmy. Powiedz mi, co ty sądzisz o tym Nowym Jorku?\" A ten buzia w ciup i wybałusza na mnie gały zza szkieł. No to ja podaję mu piersiówkę i zaczynam z innej beczki: \"A widziałeś dzisiaj tę dziunię przy studni? Łania jak malowanie, co?\". A ten dalej gapi się na mnie, jakbym mu matkę rondlem zatłukł. \"Co ty, Harold, jakiś lewy jakiś jesteś?\" - pytam z troską. A ten odpowiada cichutko: \"No bo ja się znam tylko na robocich nogach...\"",
+        "effect": "Wybierz typ oprogramowania maszyn Molocha, np. obsługa sensorów lub walka bezpośrednia. Testy Komputerów związane z oprogramowaniem tego typu są dla Ciebie łatwiejsze o jeden stopień i na pracę poświęcaszo 20% mniej czasu. Sztuczkę możesz wykupić wielokrotnie, za każdym razem dla innego typu oprogramowania."
+    },
+    {
+        "name": "Torreador",
+        "book": "Bohater do sześcianu",
+        "or": null,
+        "and": {
+            "Broń ręczna": 3,
+            "Mechanika": 2,
+            "Elektronika": 2
+        },
+        "additional": null,
+        "describe": "Nosił ostrogi i kapelusz z szerokim rondem. Miał nawet lasso, ale nie konopne, tylko wykonane z polimerów, bo nie chwytał na nie koni lecz maszyny. Normalnie łapał je w pętle, pętał w sieci, oblewał im farbą czujniki. Drwił z robotów, o włos unikał śmierci, błyskawicznie uskakiwał przed atakami i sam atakował bez wahania. Z polowania na maszyny uczynił sztukę. A co najważniejsze, gdy kończył zabawę, maszyna leżała skrępowana i rzucała się jak mała foczka na lodowcu, która zgubiła mamę.",
+        "effect": "Podczas prób chwytania maszyny za pomocą improwizowanych narzędzi, takich jak sieć, lasso, bolas i spray z farbą możesz posługiwać się umiejętnością Broń ręczna i otrzymujesz premię +1 do tej Umiejętności (nie wpływa na Suwak)"
+    },
+    {
+        "name": "Hardware Fatal Error",
+        "book": "Bohater do sześcianu",
+        "or": null,
+        "and": {
+            "Komputery": 5,
+            "Elektronika": 3
+        },
+        "additional": null,
+        "describe": "Nasz głupi Pająk wlazł na minę, co za kretyńska maszyna. Nogi urwało mu tuż przy korpusiku i myślę sobie: dupa zbita, już nie pochodzi. Przecież nie będę nosił maszyny na plecach, mam przecież swoją ludzką godność. Nawet jeśli skubaniec potrafi śledzić gangerów lepiej niż szpieg z Krainy Deszczowców. Sięgnąłem do dysków i w ciągu trzech godzin napisałem sterowniki do pseudopodii. Spiłowałem skurczybykowi nóżki na równo, załadowałem software i zapieprzał za mną na kikucikach jak mała gąsieniczka.",
+        "effect": "W krótkim czasie potrafisz przerobić program kontrolowanej przez ciebie maszyny, tak, żeby wykonywał odmienne i improwizowane działania lub obsługiwał uszkodzone elementy. Zmiana nie może być znacząca, a czas pracy ustala MG."
+    },
+    {
+        "name": "Miniaturyzacja",
+        "book": "Bohater do sześcianu",
+        "or": null,
+        "and": {
+            "Elektronika": 4,
+            "Mechanika": 4
+        },
+        "additional": null,
+        "describe": "Taka Yosaki, zwany przez wszystkich Sanyo, swego czasu przewodził Gildii w Federacji Appalachów. Jak na zrzeszonego był całkiem w porządku, ale miał świra na punkcie miniaturyzacji. Potrafił zrobić silnik mieszczący się na dłoni, radyjko w długopisie i latarkę mieszczącą się w łupinie po orzechu. Facet skręcił sobie kark, gdy schodził po ciemnych schodach, ale latarka ocalała po upadku. W taki sposób śmiała myśl minaturyzacji zatriumfowała nad słabym ciałem.",
+        "effect": "Jeśli poświęcisz na konstruowanie urządzenia dwa razy więcej czasu i podniesiesz PT testu o jeden stopień, zmontowany gadżet będzie o połowę mniejszy (jeśli to możliwe). W zależności od liczby Punktów Sukcesu uzyskanych w teście, MG może uznać, że urządzenie jest jeszcze mniejsze."
+    },
+    {
+        "name": "Planowe montowanie",
+        "book": "Bohater do sześcianu",
+        "or": null,
+        "and": null,
+        "additional": [
+            "Specjalizacja Technik albo Profesja Spec lub Monter"
+        ],
+        "describe": "Nawet gdy szedł się odlać, wcześniej przygotowywał plan. A kiedy miał coś zmontować albo naprawić, stawał się wręcz nieznośny. Najpierw pisał grafik, potem rysował schematy, ustalał sobie ilość i długość przerw, na koniec poprawiał wszystko po trzy razy. Na samo planowanie tracił godzinę. Trzeba jednak przyznać, że potem prace posuwały się w zawrotnym tempie i nawet, jeśli coś sfuszerował, szybko naprawiał błędy i kontynuował robotę. Nie zdzierżyłem dopiero, gdy obliczył średnie zużycie amunicji i zaczął nam wydawać po dwa i pół pocisku na dzień.",
+        "effect": "Jeżeli przed rozpoczęciem napraw lub konstruowania poświęcisz pół godziny na dokładne zaplanowanie prac i przygotowanie warsztatu, w przypadku porażki testu Umiejętności tracisz tylko połowę poświęconego czasu, a nie cały czas potrzebny na wykonanie zadania."
+    },
+    {
+        "name": "Perplexer",
+        "book": "Bohater do sześcianu",
+        "or": null,
+        "and": null,
+        "additional": [
+            "dowolna Specjalność 4+"
+        ],
+        "describe": "Niektórzy zamykają się w wąskim kręgu zainteresowań, inni wolą znać się na wszystkim. Mój znajomy należy do drugiej grupy. Naprawiał okręty w porcie w Nowym Jorku, montował windę w szybie górniczym w Appalachach, szył nawet skafandry ze skóry aligatora. Ostatnio wypłynął w rejs na Karaiby i spodziewam się, że niedługo z wysp dojdą wieści o wielkim skoku technologicznym i wzroście standardu życia.",
+        "effect": "Za każdą Specjalność na poziomie 4+ otrzymujesz premię +1. Premia dodaje się do Umiejętności bazowej związanej z tymi Specjalnościami, ale tylko na potrzeby działania Suwaka. Na przykład, jeżeli posiadasz Mechanikę na 6, oraz Specjalności Klepanie i Energię na poziomie przynajmniej 4, Suwak działa tak, jakbyś miał Mechanikę na 8."
+    },
+    {
+        "name": "Pożar kontrolowany",
+        "book": "Łowca Mutantów & Zabójca Maszyn",
+        "or": null,
+        "and": {
+            "Percepcja": 14,
+            "Wyrzutnie": 3
+        },
+        "additional": null,
+        "describe": "Facet był niesamowity, wiedział o ogniu wszystko, zupełnie jakby kontrolował go siłą woli. Walił z miotacza prosto pod nasze stopy, a my nawet nie poczuliśmy wzrostu temperatury. Torował nam przejście przez całe stado mutków, a te za cholerę nie mogły się do nas zbliżyć na mniej niż pięć metrów. Szkoda, że potem zginął podczas testowania swojej nowej mieszanki.",
+        "effect": "Bohater używając miotacza płomieni nigdy nie zrani siebie, ani swoich towarzyszy, jeśli tylko nie znajdują się bliżej niż 1 metr od podpalanego. Jeśli jednak próbuje sprzątnąć jednego z walczących w zwarciu, wymagany będzie test o utrudnieniu nie mniejszym niż +40% (Decyzja MG uzależniona od ilości przeciwników, rodzaju broni, sposobu walki, itp.). Potrafi również bezbłędnie określić możliwą siłę rozwoju pożaru, jego kierunek i prędkość rozwoju. MG powinien także informować o możliwości odcięcia drogi ucieczki."
+    },
+    {
+        "name": "Jestem jednym z was",
+        "book": "Łowca Mutantów & Zabójca Maszyn",
+        "or": {
+            "Skradanie się": 5,
+            "Ukrywanie się": 5,
+            "Maskowanie": 5
+        },
+        "and": {
+            "Percepcja": 12
+        },
+        "additional": null,
+        "describe": "Jeżeli chcesz podejść mutka albo dzikie zwierzę, musisz natrzeć się wydzielinami ciała, jakiegoś przedstawiciela tego samego gatunku. Jeżeli zrobisz to dobrze, nie wyczuje on ludzkiego smrodu i nie ucieknie. Przestań się wreszcie krzywić! Nie podoba się?! To zmień profesję!",
+        "effect": "Bohater potrafi zamaskować swóch zapach, chcąc podejść dzikie zwierzę lub mutka. Po natarciu się specyfikami traktowany jest przez bestie jak jedna z nich. Sztuczka oszukuje tylko węch bestii - nie działa na inne zmysły."
+    },
+    {
+        "name": "IQ test",
+        "book": "Łowca Mutantów & Zabójca Maszyn",
+        "or": null,
+        "and": {
+            "Percepcja": 15,
+            "Postrzeganie emocji": 4
+        },
+        "additional": null,
+        "describe": "Inteligencja, cecha, którą od dawien dawna dysponowali tylko ludzie, teraz za sprawą stalowego boga wala się po wszelkich dziwactwach natury. Odmieńcy są groźni, ale odmieńcy potrafiący zrobić rozeznanie terenu i obsługiwać broń, to moim zdaniem gruba przesada.",
+        "effect": "Po co najmniej minutowej obserwacji aktywnych mutantów, bohater rozpoznaje te obdarzone \"ponadzwierzęcą\" inteligencją."
+    },
+    {
+        "name": "To był mutek",
+        "book": "Łowca Mutantów & Zabójca Maszyn",
+        "or": null,
+        "and": {
+            "Charakter": 14,
+            "Łowiectwo": 4
+        },
+        "additional": null,
+        "describe": "Istnieje pewien ryzykowny sposób na zarobienie kilku gambli w cięższych czasach. Sam zmuszony byłem zrobić to raz czy dwa. Rozbijałem obóz nieopodal jakiejś wiochy, a nocami okaleczałem zwierzęta. Po tygodniu zjawiłem się w mieście i mówiłem, że to robota mutanta, i że mogę pomóc. Jakoś się nie zorientowali.",
+        "effect": "Potrafisz tak zabijać i okaleczać, aby wyglądało to na atak mutanta."
+    },
+    {
+        "name": "Rozdrażnienie",
+        "book": "Łowca Mutantów & Zabójca Maszyn",
+        "or": null,
+        "and": {
+            "Charakter": 13,
+            "Opieka nad zwierzętami": 2
+        },
+        "additional": null,
+        "describe": "Widziałeś kiedyś rozwścieczoną Alahamę? Jeżeli wykupisz tę Sztuczkę, to pewnie MG ci to umożliwi. Kiedy zwierzę albo mutek wpada w furię, atakuje z całą mocą. Nie baczy na ból i przewagę liczebną wroga. Chce tylko zabić, rozszarpać na strzępy i pożreć, nawet nie próbując się bronić.",
+        "effect": "Bohater przed walką ze zwierzęciem lub mutantem o Agresji powyżej 10, może rozdrażnić go, np. kopiąc piachem w oczy, strasząc ogniem, raniąc. Jeżeli dane zwierzę lub mutant nie zda Trudnego testu Niezłomności, zaślepi go furia, nie będzie stosował uników i bloków, a atakował będzie jedynie swym najsilniejszym możliwym atakiem i nie przestanie walczyć, aż do końca. Jeśli nie posiada tej Umiejętności, sztuczka działa bez testu."
+    },
+    {
+        "name": "Już się nie wywinie",
+        "book": "Łowca Mutantów & Zabójca Maszyn",
+        "or": null,
+        "and": {
+            "Percepcja": 13,
+            "Wypatrywanie": 3,
+            "Opieka nad zwierzętami": 3
+        },
+        "additional": null,
+        "describe": "Aligatory jednym kłapnięciem paszczy potrafią pozbawić człowieka nogi z precyzją chirurga. Ich szczęk nie sposób rozewrzeć nawet łomem. Mają jednak słabość. Wystarczy przewiązać im paszczę zwykłą sznurówką, a nie dadzą rady jej otworzyć. Podobno ma to związek z tym, że ruchoma jest tylko u nich górna, a nie dolna szczęka.",
+        "effect": "Bohater wie, jak unieruchomić każde schwytane stworzenie i na czas transportu uczynić je zupełnie niegroźnym, nawet jeżeli wcześniej nie znał tego stworzenia (nie dotyczy to jednak ekstremalnie dziwnych okazów w stylu pełzającej mazi - decyzja MG)"
+    },
+    {
+        "name": "Robactwo",
+        "book": "Łowca Mutantów & Zabójca Maszyn",
+        "or": {
+            "Bijatyka": 3,
+            "Broń ręczna": 3
+        },
+        "and": {
+            "Budowa": 13
+        },
+        "additional": null,
+        "describe": "Krwiożercze mrówki, drzewne pijawki, dwukilogramowe karaluchy, jadowite glisty i cała reszta ścierwa, która włazi we wszelkie zakamarki. Niby nic, ale dziś już kilka sztuk może zakończyć twój nędzny żywot, a zadeptanie już nie jest takie łatwe jak kiedyś.",
+        "effect": "Jeżeli limit obrażeń jakiejś istoty to 1 Ciężka lub mniej, zadajesz jej to obrażenie za jeden sukces."
+    },
+    {
+        "name": "Borowanie",
+        "book": "Łowca Mutantów & Zabójca Maszyn",
+        "or": null,
+        "and": {
+            "Broń ręczna": 7
+        },
+        "additional": [
+            "tylko dla zabójców maszyn"
+        ],
+        "describe": "Powiesz pewnie, że maszyny nie chodzą do dentysty. I racja - to ty pobaw się w dentystę i przyjdź do nich. Zobaczymy, czy dalej będą takie gruboskórne.",
+        "effect": "Za każdy celny cios wytrzymałość pancerza spada dodatkowo o 1 punkt. Sztuczka działa tylko na pancerze o Redukcji 1, 2 i 3."
+    },
+    {
+        "name": "Fire in the hole!",
+        "book": "Łowca Mutantów & Zabójca Maszyn",
+        "or": null,
+        "and": {
+            "Percepcja": 14,
+            "Zręczność": 12,
+            "Kondycja": 3
+        },
+        "additional": null,
+        "describe": "Nienawidzę kolesi odpornych na wybuchy. Za ich plecami eksploduje morze płomieni, a oni tylko efektownie skaczą, turlają się, a potem wstają jak gdyby nigdy nic.",
+        "effect": "Każda rana otrzymana na wskutek wybuchu materiału wybuchowego czy granatu jest o jeden stopień mniejsza niż wynikałoby to z reguł."
+    },
+    {
+        "name": "Hurt, detal",
+        "book": "Łowca Mutantów & Zabójca Maszyn",
+        "or": null,
+        "and": {
+            "Spryt": 10,
+            "Mechanika": 4,
+            "Elektronika": 4
+        },
+        "additional": null,
+        "describe": "Przynoszę frajerowi noktowizor z wielkim mozołem wyrwany tosterowi z bebechów, a ten mówi - \"Wezmę za piątkę\". W ostatecznym rozrachunku, to on dostał piątkę... pocisków kaliber 9 milimetrów.",
+        "effect": "Jeśli zdasz problematyczny test Sprytu, MG zdradza Ci autentyczną wartość sprzętu wydobytego z tworów Molocha."
+    },
+    {
+        "name": "Spoko, już nie wstanie",
+        "book": "Łowca Mutantów & Zabójca Maszyn",
+        "or": {
+            "Mechanika": 4,
+            "Elektronika": 4
+        },
+        "and": {
+            "Wypatrywanie": 6
+        },
+        "additional": null,
+        "describe": "Natrafiłem kiedyś z kumplem na takiego przerośniętego łowcę. Waliliśmy bez litości, a to draństwo to padało, to wstawało, i tak cztery razy. Padło po raz piąty, ja czekam... A gość wyskoczył z narzędziami i sprintem do sterty złomu. Rzucił jeszcze do mnie - \"Spoko, już nie wstanie\".",
+        "effect": "Bohater, zdając Problematyczny test Wypatrywania, może jednoznacznie stwierdzić, czy maszyna Molocha jest już unieszkodliwiona."
+    },
+    {
+        "name": "W kupie siła",
+        "book": "Łowca Mutantów & Zabójca Maszyn",
+        "or": null,
+        "and": {
+            "Charakter": 15
+        },
+        "additional": [
+            "tylko profesja Zabójca Maszyn"
+        ],
+        "describe": "My po prostu czujemy się dobrze w swoim towarzystwie.",
+        "effect": "Za każdego zabójcę maszyn w ekipie Bohatera wyposażonego w tę Sztuczkę otrzymuje on 5% ułatwienia do wszelkich testów związanych z walką z Maszynami, nie więcej jednak niż 20%"
+    },
+    {
+        "name": "Choroba wyjątkowo zakaźna",
+        "book": "Ruiny",
+        "or": null,
+        "and": null,
+        "additional": [
+            "Profesja - Szczur (albo jako wynik zakażenia)"
+        ],
+        "describe": "Dużo się mówiło o tym całym smrodzie i odstraszającej nędzy, a jak przychodzi co do czego, to i tak dotychczas dostawałeś w mordę jak każdy. Koniec z tym. Zaraziłeś się naprawdę paskudną chorobą, tzw. Szczurzycą - wygląda złowieszczo i niepokojąco, właśnie tak, jak ma wyglądać.",
+        "effect": "1 - Odstraszenie:Gdy odkrywasz miejsce pokryte Szczurzycą (np. zakryta wcześniej chustą twarz, czy skryte pod rękawem przedramię), natychmiast powstrzymujesz wszelkie próby bezpośredniego kontaktu ze strony niezarażonego frajera (np. próby sierpowego w twoją gębę). Dobrać się do Ciebie można teraz tylko za pomocą jakichś narzędzi (a i to po zdaniu Problematycznego testu Niezłomności) albo broni dystansowej (no ale trochę na Ciebie szkoda amunicji).2 - Zarażanie:Jeśli chcesz kogoś zarazić, musisz go przez chwilę przytrzymywać. Następnie rzucasz k20. Wynik równy lub niższy od liczby sekund przytrzymywania, ale nie większy niż 5, oznacza, że się udało."
+    },
+    {
+        "name": "Plugawienie przedmiotów",
+        "book": "Ruiny",
+        "or": null,
+        "and": null,
+        "additional": [
+            "Profesja - Szczur"
+        ],
+        "describe": "Szlag, psia jego mać, dałem mu na chwilę znalezioną w rumowisku gazetę, ten wziął, przyjrzał się, pokiwał głową, coś tam burknął i po chwili oddał mi to w postaci śmierdzącego papierowego gówna. No i masz, po gamblu.",
+        "effect": "Potrafisz upodobnić dowolny niewielki przedmiot (nie większy niż mała walizka), do całej reszty swojego dobytku, czyli do rzeczy, których raczej nikt nie będzie chciał zabrać, ani nawet dotknąć. Po kilku minutach brudzenia i uszkadzania mniej istotnych detali rzecz wygląda na niezwykle przykry złom lub śmieć (jeśli ktoś już się tym jednak zainteresuje, przedmiot wygląda na jedną czwartą swojej wartości). Sztuczka nie dotyczy broni palnej. I jeszcze mała uwaga dla zbyt sprytnych - noszenie takich rzeczy upodabnia do Szczura, zmniejszając reputację."
+    },
+    {
+        "name": "Szczurza reputacja",
+        "book": "Ruiny",
+        "or": null,
+        "and": null,
+        "additional": [
+            "Profesja - Szczur"
+        ],
+        "describe": "Nie powiem, żeby Szczury się wzajemnie miłowały z powodu samej przynależności do tego samego podgatunku obszarpańców. Ciebie jednak lubią. Ufają ci. Może to przez twoją skromność i spokój, jakąś odporną na wszystko pogodę ducha, trudno powiedzieć.",
+        "effect": "Spotykane po raz pierwszy Szczury automatycznie reagują na ciebie pozytywnie, o ile nie przeszkadza w tym sytuacja (np. jesteś w grupie, która właśnie pali ich wszawe domki). Ponadto masz bonus -30% do wszystkich testów Negocjacji i Perswazji względem Szczurów."
+    },
+    {
+        "name": "Pałowanko",
+        "book": "Prawo i Sprawiedliwość",
+        "or": null,
+        "and": {
+            "Broń ręczna": 3
+        },
+        "additional": null,
+        "describe": "Kiedyś w NY widziałem jak policja rozpędzała grupę uzbrojonych w kamienie i mołotowy wandali. Gliniarze mieli tylko pały, ale jak zaczęli lać, to tamci poszli w rozsypkę. A ile przy tym wrzasku narobili! Aż mnie rozbolało od samego dźwięku, normalnie.",
+        "effect": "Wiesz jak lać pałą, by kwiczeli. Przy ataku masz utrudnienie 20%. Uderzenia pałką zadają normalne obrażenia, lecz tak cholernie bolą, że ofiara przy każdym trafieniu musi wykonać udany test Odporności na ból lub Budowy na poziomie Trudnym, albo zwija się z bólu i nie atakuje. Jeżeli masz sztuczkę Ogłuszenie, to razem z tą tutaj utrudnienie ogłuszenia spada do 20%."
+    },
+    {
+        "name": "Blok tongą",
+        "book": "Prawo i Sprawiedliwość",
+        "or": null,
+        "and": {
+            "Broń ręczna": 3,
+            "Zręczność": 9
+        },
+        "additional": [
+            "tylko przy użyciu tonfy."
+        ],
+        "describe": "Gdyby nie ten patent, nie miałbym już ręki. Wyleciał na mnie psychol z mieczem, a ja miałem tylko tonfę i mało miejsca. Ani uniknąć, ani nic. No to biorę tonfę za drugi uchwyt, by leżała wzdłuż przedramienia i blokuję cios! Ale się pacjent zdziwił, tak długo to robił, że zdążyłem mu przypieprzyć.",
+        "effect": "Chwytając tonfę za drugi, poprzeczny uchwyt i układając ją wzdłuż przedramienia, jesteś w stanie wykonywać bloki przeciwko broni białej. Masz z automatu jeden sukces przeciwko atakowi przeciwnika - do tego dochodzą kolejne z testu. Może nie krzywdzisz sukinsyna, ale pełna defensywa pozwoli ci przetrwać aż przybędzie wsparcie."
+    },
+    {
+        "name": "Make my day, punk",
+        "book": "Prawo i Sprawiedliwość",
+        "or": null,
+        "and": {
+            "Charakter": 14,
+            "Zastraszanie": 6
+        },
+        "additional": [
+            "tylko dla Sędziego"
+        ],
+        "describe": "Clint Eastwood w \"Brudnym Harrym\" był istnym bogiem. Mierzył ze swej armaty w pysk uzbrojonemu fajfusowi i mówił: \"C'mon, shoot. Make my day, punk\". A gość wymiękał.",
+        "effect": "Możesz raz przerzucić każdy test Charakteru przed walką. A przeciwnik sika po spodniach."
+    },
+    {
+        "name": "Spluwa i odznaka",
+        "book": "Prawo i Sprawiedliwość",
+        "or": null,
+        "and": {
+            "Charakter": 11
+        },
+        "additional": null,
+        "describe": "To jest odznaka, a to moja spluwa. Jakieś wątpliwości?",
+        "effect": "Jeśli mówisz, że jesteś sędzią, to reszta świata reaguje tak, jak powinna zareagować na sędziego. Sędziostwo tak ci wyłazi z oczu, gęby i odznaki, że nikt nawet nie pomyśli, że możesz być oszustem. Zagraj tę sztuczkę za każdym razem, gdy widzisz, że MG rzuca Ci pod nogi kłodę w postaci podważenia twojego autorytetu jako sędziego. BN mogą odtąd kwestionować twoje wyroki i działania, ale nie przyczepią się do tego, że jesteś człowiekiem prawa."
+    },
+    {
+        "name": "Z buta",
+        "book": "Prawo i Sprawiedliwość",
+        "or": null,
+        "and": {
+            "Budowa": 12
+        },
+        "additional": null,
+        "describe": "Znowu zamknięte? Przepuście Mike'a, ja już mam rękę na temblaku!",
+        "effect": "Każde drzwi, które nie były wzmacniane w szczególny sposób, dadzą się otworzyć brutalnym kopniakiem albo rypnięciem z barku. Koniec żenujących scen, gdy ty deklarujesz wyważanie, MG każe ci testować, a na końcu spływasz po drzwiach jak worek z gównem. Jeśli tylko drzwi da się otworzyć w ten sposób - ty to zrobisz, bez testów."
+    },
+    {
+        "name": "Stój bo strzelam!",
+        "book": "Prawo i Sprawiedliwość",
+        "or": null,
+        "and": {
+            "Charakter": 12
+        },
+        "additional": null,
+        "describe": "BANG! Stój, bo strzelam!",
+        "effect": "Jak wrzaśniesz te słowa, ścigany ma pewność, że to nie ściema. Jeśli MG chce, żeby dalej spieprzał, musi zdać test jego Charakteru. Trudność zależy od sytuacji: jeśli facet prawie że czmychnął w bezpieczne miejsce, będzie Bardzo Trudna , jeśli prawie masz go w garści - zapewne Łatwa. W każdym razie jest szansa, że stanie z rączkami w górze. Na pewno jednak nie będzie sytuacji, gdy po prostu zleje twoje słowa."
+    },
+    {
+        "name": "Maska zawsze założona",
+        "book": "Skażenia",
+        "or": null,
+        "and": null,
+        "additional": [
+            "Bierz chłopie i nie pytaj o takie rzeczy."
+        ],
+        "describe": "Ile razy można tłuc MG do łepetyny, że maskę masz zawsze na gębie? Za każdym razem odpowiada \"co z żarciem?\", \"Co z mówieniem?\", \"Co z pluciem?\" Weź tę sztuczkę i miej to z głowy!",
+        "effect": "Jeśli tylko masz gazmaskę w ekwipunku i nie mówisz wyraźnie, że jest inaczej, traktowany jesteś jakbyś miał ją założoną. Zawsze, bez wyjątku."
+    },
+    {
+        "name": "10 w skali beauforta",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Sterowanie": 3
+        },
+        "additional": null,
+        "describe": "Jestem prawdziwym weteranem i nie lękam się sztormu. Potrafię wyprowadzić statek z każdej burzy i dlatego dopłynąłem do Europy. A tam, nie uwierzycie, w ogóle nie było wojny. Ludzie żyją jak dawniej. Dopływam do Londynu i pytam, czemu nikt nie interesuje się Ameryką. Angol uśmiecha się i mówi, że od kilku lat wybiera się do nas na wakacje, ale w prognozie po dzienniku ciągle mówią o złej pogodzie nad Atlantykiem.",
+        "effect": "Jeśli bohater steruje statkiem, obrażenia zadane przez sztorm są zmniejszane o jeden stopień (np. z Ciężkich na Lekkie)"
+    },
+    {
+        "name": "Alfabet morsa",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Spryt": 12
+        },
+        "additional": null,
+        "describe": "Podpłynął raz do nas dość spory statek pod piracką banderą. Wszyscy nasi trzęsą gaciami i trzymają broń w pogotowiu, a tu naraz jakiś palant od piratów wyłazi na mostek i zaczyna błyskać nam po oczach reflektorem. Wszyscy zbaranieli, jedynie Łysy nagle pyta: \"Macie może sól?\", \"Na cholerę ci teraz sól?!\" - wydzieram się na niego. A on na to: \"Mnie niepotrzebna, ale tamci chcą pożyczyć\"",
+        "effect": "Postać zna alfabet Morse'a i potrafi się porozumieć z inną osobą z tą samą Sztuczką za pomocą sygnałów świetlnych. W dzień świecisz lusterkiem, a w nocy latarką."
+    },
+    {
+        "name": "Bosmański spacer",
+        "book": "Piraci",
+        "or": {
+            "Kutry": 4,
+            "Sterowanie": 4
+        },
+        "and": {
+            "Budowa": 14
+        },
+        "additional": null,
+        "describe": "Znałem raz jednego bosmana, mówili mu Thomas Prosty Chód. Był cholernym pijakiem, na lądzie nie umiał zwykle ustać. Ale na statku, choćby nie wiem jak był pijany, zawsze chodził prosto.",
+        "effect": "Bohater po wypiciu paru głębszych chodzi po pokładzie statku wciąż prosto, nawet podczas sztormu. Dodatkowo otrzymuje tylko połowę utrudnień do strzelania za kołysanie statku, oraz żadnych utrudnień do testów związanych z poruszaniem się."
+    },
+    {
+        "name": "Bywalec tawern",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Broń ręczna": 4,
+            "Bijatyka": 2
+        },
+        "additional": null,
+        "describe": "Brałem udział w dziesiątkach bójek w tawernach, portowych uliczkach, a przede wszystkim na pokładach statków. W moich stronach to była jedyna rozrywka - w sobotę wieczorem zabierało się dziewczynę na zadymę do sąsiedniej wioski. Dzięki temu świetnie radzę sobie w czasie abordażu i podczas walki wręcz na stałym lądzie.",
+        "effect": "Kary do Zręczności za walkę w tłoku zawsze dzielisz przez 2. Gdy używasz broni improwizowanej, która nie pozwala na użycie Umiejętności Broń ręczna, możesz użyć połowy tej Umiejętności (zaokrąglając w dół)"
+    },
+    {
+        "name": "Cała naprzód",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Mechanika": 6
+        },
+        "additional": null,
+        "describe": "\"Cała naprzód ku nowej przygodzie. Taka gratka nie zdarza się co dzień. Niech leniuchy zostaną na brzegu my odpocząć możemy i w biegu!\" Podróże pana Kleksa, ech, rozmarzyłem się.",
+        "effect": "Bohater potrafi zwiększyć wydajność napędu statku zwiększając prędkość maksymalną o 20%. Zwiększoną wydajność można podtrzymać przez liczbę godzin równą Umiejętności Mechanika. Po tym czasie trzeba dać odpocząć maszynom, płynąc co najwyżej z prędkością podróżną (połową maksymalnej), trzy razy dłużej niż trwało \"Cała naprzód!\" Gdy trwa \"Cała naprzód!\" po każdej godzinie należy wykonać Trudny test Mechaniki. Porażka oznacza awarię maszyn i zatrzymanie statku."
+    },
+    {
+        "name": "Człowiek - kompas",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Nawigacja": 2,
+            "Wyczucie kierunku": 4
+        },
+        "additional": null,
+        "describe": "\"Gdy wypływasz na morze, zawsze bierz kompas\" - tak mówił mój ojciec. Tylko tak sobie myślę, po co akurat mnie ten kompas?",
+        "effect": "Nie musisz posiadać kompasu, by ocenić prawidłowo kierunki, o ile widzisz gwiazdy lub słońce. Otrzymujesz bonus do Nawigacji za kompas, nawet jeśli go nie posiadasz."
+    },
+    {
+        "name": "Człowiek, jak lódź podwodna",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Pływanie": 7,
+            "Kondycja": 2
+        },
+        "additional": null,
+        "describe": "Siedzę sobie pewnego dnia na przystani i nagle widzę gościa, któremu wpada do morza walizka. Nagle, bez chwili wahania, wskakuje do wody - a było tam całkiem głęboko... Jakieś ćwierć kilometra.",
+        "effect": "Bohater nie otrzymuje kar za pływanie na dużych głębokościach bez odpowiedniego sprzętu."
+    },
+    {
+        "name": "Delta bravo, łajba w prawo",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Sterowanie": 4
+        },
+        "additional": null,
+        "describe": "Nie wiem co mówi kapitan Kirk do pana Spocka, kiedy Enterprise wali prosto na statek Romulan, ale gdy widziałem tę rafę powiedziałem do naszego sternika: \"Święta Panienko, zmiłuj się...\" Ten wydmuchnął dym z cygara, wyszczerzył zęby i odparł \"Zostało ci odpuszczone\". Minęliśmy rafę o włos.",
+        "effect": "Podczas omijania przeszkód i wykonywania skrętów łajbą do długości łajby dodajesz prędkość, a nie prędkość podwojoną."
+    },
+    {
+        "name": "Desant wodny",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Skradanie się": 4,
+            "Pływanie": 3,
+            "Wspinaczka": 3
+        },
+        "additional": null,
+        "describe": "Podczas jednej wyprawy na ląd, zarąbaliśmy z Kevinem konsolę i telewizor. W nocy zakradliśmy się do agregatu i sobie ją podłączyliśmy. W środku była jedna płytka i to porysowana jak jasna cholera. NA filmie jacyś komandosi podpływali pod okręt, na wciągarkach dostawali się na górę i zaczynali akcję. Obejrzeliśmy to z dziesięć razy i wyszliśmy podnieceni. Nagle Kev wyskoczył za burtę. Po chwili znaleźliśmy go w jego kajucie...",
+        "effect": "Dodaj do siebie umiejętność Pływanie i Wspinaczka. Wykonaj Bardzo Trudny test tej Umiejętności. Dzięki temu jesteś w stanie przepłynąć niezauważony 10 metrów wpław (+5 za każdy punkt sukcesu) i wleźć na pokład statku. Potem radź sobie sam."
+    },
+    {
+        "name": "..GERROOOONIIIMOOOOO!",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Pływanie": 6
+        },
+        "additional": null,
+        "describe": "Jeden z nich wspiął się na olinowanie i zaczął pruć z Ingrama po bocianim gnieździe. Patrzę, a Jack wyskakuje z tego gniazda i sru na dechę do wody! Myślę sobie \"No, to się facet uratował, teraz będzie chodził z mostkiem wbitym w kręgosłup\". Chwilę potem wypłynął z bananem na gębie i wdrapał się po drabinie na pokład. Gdyby nie to, że jakiś gość zamachnął się na mnie z toporkiem, to byłbym tam stał jeszcze z godzinę i gapił się na Jack'a. Od bocianiego gniazda do wody było z 30 metrów!",
+        "effect": "Bohater potrafi zeskoczyć do wody z wysokości równej swojej Budowie pomnożonej przez 2, nie odnosząc przy tym obrażeń."
+    },
+    {
+        "name": "Hej suczki, znamy wasze sztuczki!",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Spryt": 12,
+            "Percepcja": 12,
+            "Czujność": 2
+        },
+        "additional": null,
+        "describe": "Nasz Stary był cwany jak mało kto. Kiedyś gdy szykowaliśmy się do abordażu, wychylił siwy łeb zza osłony, rozejrzał się po pokładzie wroga i kazał chłopakom przygotować sikawkę. Chłopaki przygotowali, patrzymy, a tamci już się szykują z miotaczami ognia.",
+        "effect": "Po zdaniu Trudnego testu Czujności, bohater potrafi odgadnąć Sztuczki jednego BN'a lub Sztuczkę grupy załogi. MG zdradza te Szcztuczki, które można odgadnąć na podstawie krótkiej obserwacji zachowania. Test można powtarzać w stosunku do tej samej osoby lub grupy, ale każda kolejna próba jest trudniejsza o poziom, a Cholernie Trudnego nie da się powtórzyć."
+    },
+    {
+        "name": "Jack Sparrow",
+        "book": "Piraci",
+        "or": {
+            "Kutry": 2,
+            "Sterowanie": 2
+        },
+        "and": {
+            "Zręczność": 16
+        },
+        "additional": null,
+        "describe": "Próbowałem ciąć go nożem, ten wystrzelił ze spluwy w bloczek, złapał się liny, wylądował na maszcie, skoczył i zjechał na nożu po żaglu w grupę moich kumpli, roztrącając ich jak kręgle. Opowiedział mi to kumpel, bo zemdlałem, jak po drodze dostałem butem w twarz.",
+        "effect": "Potrafisz wykorzystywać elementy statku do szybszego poruszania się po nim. Dzięki temu podczas walki w 1 segmencie poruszasz się o dwa metry szybciej niż normalnie."
+    },
+    {
+        "name": "Krwawy John",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Zastraszanie": 5,
+            "Zdolności przywódcze": 4,
+            "Charakter": 14
+        },
+        "additional": null,
+        "describe": "Zawsze się go baliśmy. Gdy robił nam poranną musztrę, bawił się nożem lub hakiem... On chyba morduje tych, którzy nie wykonują dokładnie rozkazów. Ostatnio Howie gdzieś zniknął.",
+        "effect": "Postać robi musztrę podkomendnym. Zdaje Bardzo Trudny test Zdolności przywódczych, dzięki czemu podwładni w ciągu dnia mogą powtórzyć jeden nieudany test."
+    },
+    {
+        "name": "Kurde Balans!",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Zręczność": 15,
+            "Wspinaczka": 5
+        },
+        "additional": null,
+        "describe": "Z Frankiem nie gadam od kiedy skurczybyk podpiłował moją drewnianą nogę jak spałem. Rano chciałem wyjść na pokład a tu trzask i leżę na deskach. Chciałem dowcipnisiowi sprać gębę, ale skubany hyc na linę i już po chwili był na maszcie. Żebyś go widział, jak on zasuwał po tych linach. Normalnie jak małpa jakaś.",
+        "effect": "Bohater z tą Sztuczką potrafi bez żadnych testów przejść po linie albo wąskiej desce czy też gałęzi."
+    },
+    {
+        "name": "Liną go!",
+        "book": "Piraci",
+        "or": {
+            "Kutry": 3,
+            "Sterowanie": 3
+        },
+        "and": {
+            "Percepcja": 16
+        },
+        "additional": null,
+        "describe": "Kolesie stali przed Jackiem z maczetami, a ten popatrzył na nich z obleśnym uśmiechem i ciął nożem na odlew jakąś linę. Spojrzeli jak na debila, usłyszeliśmy cichy świst i majtnęło nimi jak z procy za burtę.",
+        "effect": "Znasz olinowanie statku tak dobrze, że potrafisz wykorzystywać je jak pułapki. A to zagarniesz kogoś bomem, a to zrzucisz na niego żagiel. Wystarczy wykonać Bardzo Trudny test Percepcji by sprawdzić, czy w pobliżu nie ma jakiejś liny zwalniającej \"pułapkę\""
+    },
+    {
+        "name": "Mały Pływak",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Pływanie": 6
+        },
+        "additional": null,
+        "describe": "A było wtedy z dziesięć w skali Beauforta. Ale Joel był twardy i skoczył za tym chłopakiem. Fale były tak wielkie, że przykrywały nasz statek. Mnie o mało nie wyrzuciły do morza. A ten skurczybyk wrócił - jak Boga kocham! Uratował chłopaka, a cholera wie, jak w ogóle jemu samemu udało się nie utonąć...",
+        "effect": "Ignorujesz wszystkie utrudnienia związane z falami, trudnymi warunkami itp. w wodzie, gdy pływasz wpław. Wszystkie!"
+    },
+    {
+        "name": "Ożaglowanie",
+        "book": "Piraci",
+        "or": {
+            "Kutry": 4,
+            "Sterowanie": 4
+        },
+        "and": {
+            "Spryt": 15
+        },
+        "additional": null,
+        "describe": "Śmialiśmy się z Pączka, że jest gruby i robi niepotrzebny balast. Ale jak nam porwało żagiel na strzępy, ten pomyślał chwilę i kazał nam zejść do ładowni i poczekać. Jak wróciliśmy, mieliśmy 15 metrów kwadratowych żagla, powiewającego na wietrze, a on stał przed nami golusieńki i głupawo uśmiechnięty. Nie wiem, jak on to wszystko poszył.",
+        "effect": "Potrafisz wykorzystać wszystkie dostępne na statku materiały do naprawy lub uszycia nowego żagla. Wystarczy ci nawet kawałek brezentu, prześcieradło i majteczki. Stopień trudności ustala MG. Klasa żagli to oczywiście \"Improwizowane\"."
+    },
+    {
+        "name": "Papuga Poe",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Opieka nad zwierzętami": 4
+        },
+        "additional": null,
+        "describe": "Znałem kiedyś takiego kapitana, który nosił na ramieniu małą papugę kakadu, czy jakoś tak. Pewnego razu na statku wybuchł mały bunt, sytuacja była nieprzyjemna... I wiecie co uratowało kapitana? Papuga zaczęła kląć na załogę, a mówię wam, takiej soczystej mowy to nie słyszałem od kiedy opuściłem Hegemonię. No i załoga nagle się uspokoiła i wszystko wróciło do normy.",
+        "effect": "Kapitan posiada wytresowaną papugę, dzięki której wszelkie testy Dowodzenia załogą statku są łatwiejsze o poziom."
+    },
+    {
+        "name": "Pełne żagle!",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Zdolności przywódcze": 3
+        },
+        "additional": null,
+        "describe": "Koordynacja prac przy rozwijaniu żagli to część sukcesu. Doświadczony bosman wie, do kogo krzyczeć i co krzyczeć, żeby przebiegało to sprawniej. Nic tak nie przyspiesza rozwijania żagli, jak kilka słów na \"k\", na przykład, \"którędy, kolego?\"",
+        "effect": "Jeśli posiadacz tej Sztuczki kieruje rozwijaniem żagli, żaglowiec przyspiesza do prędkości maksymalnej w czasie o 25% krótszym niż normalnie."
+    },
+    {
+        "name": "Pistolet na wodę",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Rusznikarstwo": 3
+        },
+        "additional": null,
+        "describe": "Przemoczony Cassul wrócił na pokład z groźną miną i tą swoją dwururką w łapach. Kiedy wymierzył w tego, co go wyrzucił do wody, wszyscy zaczęliśmy się śmiać. W końcu spluwa zalana... Ale Cassul wystrzelił, najpierw pod nogi frajera. Nie wiem jak on to zrobił, ale tamten zaczął wiać, ile sił w nogach. Po drugim strzale Medyk mu przez pół dnia śrut z tyłka wyciągał.",
+        "effect": "Bohater potrafi dbać o swoją broń i amunicję w taki sposób, że ta nie zamoknie przy kontakcie z wodą. Tylko zapamiętaj chłopie, że chodzi o Twój sprzęt, nie dasz rady zajmować się zabawkami całej załogi."
+    },
+    {
+        "name": "Podwodna modliszka",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Bijatyka": 2,
+            "Pływanie": 5,
+            "Ukrywanie się": 7
+        },
+        "additional": null,
+        "describe": "Nie ma nic gorszego od dostania zawału serca ze strachu. Zebrałem już w życiu trochę ołowiu, ale nic nie położyło mnie na tyłek tak skutecznie, jak to co zrobił ten gość. Szliśmy sobie z Bruce'm zdemolowanym molem w dokach Miami, aż tu nagle z wody wyskakuje jakiś facet, łapie Bruce'a za nogę i ściąga go na dół! O mało z gaci nie wyskoczyłem ze strachu. W końcu udało mi się odzyskać Bruce'a w stanie prawie nienaruszonym po wywaleniu całego magazynka w wodę.",
+        "effect": "Bohater potrafi się zaczaić w wodzie i nagle wyskoczyć, chwytając najbliższą stojącą osobę oraz ściągnąć ją pod wodę. Ukryty w wodzie bohater zaskakuje przeciwników, chyba, że powiedzie im się Cholernie Trudny test Czujności. Atak zabiera całą rundę."
+    },
+    {
+        "name": "Podwodny szachista",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Pływanie": 6,
+            "Budowa": 13
+        },
+        "additional": null,
+        "describe": "\"Chodź zagramy w szachy\". Nim się obejrzałem, wrzucił mnie i szachownicę do wody.",
+        "effect": "Bohater zdaje otwarty test Pływania i za każdy osiągnięty Punkt Sukcesu może przebywać pod wodą o 30 sekund dłużej."
+    },
+    {
+        "name": "Rozruch łajby",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Mechanika": 3,
+            "Sterowanie": 2
+        },
+        "additional": null,
+        "describe": "Przyczepił do silnika mniejszy silniczek, przekręcił dwie śruby, poluźnił zawór, pomodlił się do świętego Jakuba i przestawił budzik na wcześniejszą godzinę. Maszyny zaczęły się wolno rozkręcać. Przed snem powiedział jeszcze, że ruszamy nie o ósmej, ale o trzeciej.",
+        "effect": "Jeśli posiadacz tej Sztuczki jest odpowiedzialny za rozruch łajby, dokonuje go o połowę krócej niż normalnie."
+    },
+    {
+        "name": "Sokole Oko",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Wypatrywanie": 4,
+            "Percepcja": 16
+        },
+        "additional": null,
+        "describe": "Zawsze cię wkurzało, że ten pieprzony bosman stawiał na oku jakiegoś frajera? Taki koleś tylko sobie siedzi i ma gdzieś, że wy na dole zdzieracie sobie łapy przy szotach, pracujecie w kotłowni, albo glancujecie pokład. Też tak byś chciał? No to weź tę sztuczkę pało...",
+        "effect": "Mając tę Sztuczkę bohater wypatrzy każdy większy obiekt (np. łódź), który pojawi się na horyzoncie. Ale pamiętaj, że Sztuczka działa tylko wtedy, kiedy jesteś na morzu i przepatrujesz horyzont."
+    },
+    {
+        "name": "Spokojnie, to tylko awaria",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Kondycja": 3,
+            "Morale": 2
+        },
+        "additional": null,
+        "describe": "Wiedziałem, że mamy przerąbane - przed kilkoma sekundami jeden z tych palantów wrzucił do ładowni granat i zrobił nam niezły otwór w kadłubie. Już miałem wrzeszczeć \"Opuścić pokład!\", ale patrzę, a Rudy zeskakuje na dół i zaczyna machać wiadrem wylewając wodę za burtę. Miał takie tempo, że łajba mimo dziury wielkości dwóch naszych bocianich gniazd dalej unosiła się na wodzie. Wszyscy gapili się na niego oniemiali - łącznie z chłopami, którzy przed chwilą wpadli na pokład - póki nie krzyknął \"Co się gapicie, rozwalcie ich do cholery!\"",
+        "effect": "Bohater może uratować nawet mocno uszkodzony statek przed utonięciem (niweluje jedno Ciężkie uszkodzenie), jeśli zajmuje się tylko i wyłącznie wylewaniem wody. I dopóki się tym zajmuje."
+    },
+    {
+        "name": "Torpedo-Men",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Pływanie": 5,
+            "Budowa": 13
+        },
+        "additional": null,
+        "describe": "Z jaką prędkością pływa torpeda? Nie wiem... Wiem, że koleś z tą Sztuczką może taką wyprzedzić. Skąd wiem? No... przed moją torpedą uciekł - powaga.",
+        "effect": "Szczęśliwy posiadacz tej Sztuczki może pływać dwa razy szybciej niż przeciętny człowiek."
+    },
+    {
+        "name": "Urodzony na pokładzie",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Wspinaczka": 4,
+            "Zręczność": 14
+        },
+        "additional": null,
+        "describe": "Sztorm był taki, że nie słyszałem własnych myśli. Macham, krzyczę do Harrego, a facet tylko kręci głową. Po chwili wskoczył na linę, potem na maszt i już jest obok mnie na bocianim gnieździe.",
+        "effect": "Przy testach Wspinaczki olewasz wszelkie kary związane ze złą pogodą i kołysaniem statku."
+    },
+    {
+        "name": "Urodzony oficer",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Zdolności przywódcze": 3
+        },
+        "additional": null,
+        "describe": "Słyszałeś o poruczniku Hornblowerze? Podobno służy we flocie Małej Brytanii. Na pokładzie statku zna receptę na każdy problem. Gdziekolwiek się pojawi, potrafi poinstruować załogę i pokierować robotą. Nawet Francuzi pod jego światłą kuratelą potrafią poprawnie nabić działo i skierować je lufą do morza. A zapewniam Cię, że nie każdy potrafi sprawić, żeby Francuzi zachowywali się jak marynarze.",
+        "effect": "Bohater wybiera na stałę jedną ze Sztuczek dla załogi. Każda grupa załogi, którą będzie dowodził (tylko jedna na raz) traktowana jest tak, jakby miała tę Sztuczkę."
+    },
+    {
+        "name": "Ziemia! Ziemia!",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Percepcja": 14,
+            "Wypatrywanie": 2
+        },
+        "additional": null,
+        "describe": "Jack Sokole Oko mieszkał na bocianim gnieździe. W ogóle stamtąd nie złaził, wciągał sobie żarcie w koszyczku, miał tam swój stary parasol, poduszeczkę i przede wszystkim stareńką lunetę. W największej mgle potrafił wypatrzyć ląd, inny statek albo rafę. Kłopot w tym, że zawsze krzyczał potem: \"Ziemia! Ziemia!\" i trzeba było się dopytywać, co naprawdę zobaczył.",
+        "effect": "Niweluje o -30% utrudnienia widoczności przy wypatrywaniu celu."
+    },
+    {
+        "name": "O zryw łajby",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Mechanika": 5,
+            "Sterowanie": 2
+        },
+        "additional": null,
+        "describe": "Uwierzyłbyś, że można potraktować tankowiec jak bolid wyścigowy? Ja też nie, dopóki nie zobaczyłem tego na własne oczy. Budzik w maszynowni zadzwonił, zaspany mechanik wstał, posłuchał, jak mruczy silnik, splunął na obudowę, żeby zobaczyć, czy jest gorąca, po czym zaczął nieregularnie kręcić jakąś wajchą. Coś tam mruczał o asynchronizacji, gaszeniu pola i szczotkach komutatora, wskaźnik spalania paliwa oszalał zupełnie, a statek przyspieszał i przyspieszał. Nie, żeby wgniotło mnie w fotel, ale czułem różnicę.",
+        "effect": "Jeśli posiadacz tej Sztuczki kieruje pracą w maszynowni, statek przyspiesza do prędkości maksymalnej w czasie o połowę krótszym niż normalnie. Silnik spala dodatkowo tyle paliwa, ile potrzebuje na przepłynięcie 10 mil morskich z prędkością podróżną (połową maksymalnej)."
+    },
+    {
+        "name": "Zupa na gwoździu",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Niezłomność": 5
+        },
+        "additional": null,
+        "describe": "Podobno pustelnicy wcinają na pustyni szarańczę i piją rosę zebraną na chustce. Nie wierzyłem, dopóki nie spotkałem jednego takiego na pokładzie Queen Elizabeth. Facet robił obiadki z byle czego. Robaki w mące były dla niego \"wkładką mięsną\", a pleśń na chlebie \"masełkiem\". Ponieważ był człowiekiem świętobliwym, w piątek nie jadł zupełnie nic, a w niedzielę wiązał brudny śliniaczek i pałaszował tłustego szczura.",
+        "effect": "Każdego dnia bez jedzenia i wody albo przy niewystarczającym wyżywieniu bohater otrzymuje o połowę mniejsze Utrudnienia (+15% zamiast +30%), podobnie po nieudanym teście Kondycji, określającym, czy nie dostał dodatkowych Utrudnień (patrz Brak jedzenia i wody w podręczniku podstawowym)"
+    },
+    {
+        "name": "Żeglarskie opowieści",
+        "book": "Piraci",
+        "or": null,
+        "and": {
+            "Blef": 3
+        },
+        "additional": null,
+        "describe": "Każdy marynarz lubi się chwalić, ale nie każdy umie zebrać słuchaczy i sprawić, że podadzą mu piwko na zachętę, a później piwko żeby nie przerywał. A na koniec jeszcze posiłek, bo fajne historie opowiada...",
+        "effect": "Opowiadając zmyśloną historię postać wykonuje Bardzo trudny test Blefu. Jeśli test się powiedzie, bohater zyska przychylność słuchaczy, która może się objawić ciepłym posiłkiem lub zimnym piwkiem. MG może zastosować pewne modyfikatory w zależności od tego, jaką gracz wymyślił opowieść. Oczywiście, nie ma przeszkód, żeby gracz opowiedział prawdziwą historię - byle była ciekawa."
+    },
+    {
+        "name": "Blokada",
+        "book": "Neuroshima Wyscig",
+        "or": {
+            "Samochód": 6,
+            "Motocykl": 6,
+            "Ciężarówka": 6
+        },
+        "and": {
+            "Charakter": 10,
+            "Spryt": 14
+        },
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "Możesz nie wierzyć, ale Cloody tak czasem robi. Mawiają: \"Pojeździsz, zobaczysz, zbaraniejesz.\" Ma taką wajchę blokady kierownicy, gaz blokuje szpilkami, a sama tarabani się na tylne siedzenie do torebki po szminkę. A torebkę, jak to kobieta, pełną ma wszystkiego, więc nim odnajdzie co trzeba...",
+        "effect": "Pozwala na odcinku prostej zablokować kierownicę i jadąc z ustaloną prędkością wykonać jedną akcję bez żadnych modyfikatorów ujemnych. Wszystkie testy PP wykonują tak, jakby siedział za kierownicą i prowadził."
+    },
+    {
+        "name": "Carmageddon",
+        "book": "Neuroshima Wyscig",
+        "or": {
+            "Samochód": 7,
+            "Motocykl": 7,
+            "Ciężarówka": 7
+        },
+        "and": {
+            "Charakter": 14
+        },
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "<Trzask pękającego metalu>",
+        "effect": "Jeżeli twój test taranowania powiedzie się, taranowany nie może uniknąć ataku."
+    },
+    {
+        "name": "James Dean",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Odporność na ból": 2,
+            "Niezłomność": 2,
+            "Morale": 2,
+            "Charakter": 16
+        },
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "Mój tatko zwykł mawiać, że buntownicy bez powodu giną bez powodu. Tak właśnie zginął mój kumpel - młodo, szybko i bez sensu. Mówili na niego James Dean, ale pewnie nie kojarzycie ksywy.",
+        "effect": "W czasie śmiertelnych pojedynków z użyciem samochodu, bohater wykonuje testy tak, jakby wszystkie jego współczynniki były większe o 2."
+    },
+    {
+        "name": "JVC",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Spryt": 16
+        },
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "Wołaliśmy na niego JVC, bo był skubany podzielny jak radio, mógł łapać kilka fal równocześnie i jakiś z tego szumu zawsze był. Wiesz tu niby się strzela, tu wchodzi w zakręt, a jeszcze ma czas, by odpalić cygaro - swoje i laski na fotelu obok.",
+        "effect": "Modyfikatory za wykonanie więcej niż jednej akcji w rundzie (na danym odcinku) są zawsze o -10% mniejsze."
+    },
+    {
+        "name": "Kolanka",
+        "book": "Neuroshima Wyscig",
+        "or": {
+            "Samochód": 5,
+            "Motocykl": 5,
+            "Ciężarówka": 5
+        },
+        "and": {
+            "Zręczność": 14,
+            "Percepcja": 12
+        },
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "Znałem faceta, który lubił słuchać muzyki w trakcie jazdy. Nie miał radia, nie miał cedeka, więc grał sobie sam. Stary dobry blues na harmonijce ustnej. Co z kierownicą? Trzymał ją kolanami.",
+        "effect": "Kierowca potrafi jechać trzymając kierownicę tylko kolanami. Nie otrzymuje żadnych utrudnień, ale nie może wchodzić w zakręty ostrzejsze niż 20%. Co w tym czasie robi z rękami, zależy tylko od niego i od dziewczyny siedzącej na fotelu obok. Jeżeli kierowca postanowi wykonywać rękami czynność wymagającą uwagi (np. strzelanie z pistoletu) otrzymuje utrudnienia do testu Prowadzenia Pojazdów zależne od MG, zazwyczaj +50%"
+    },
+    {
+        "name": "Lusterka",
+        "book": "Neuroshima Wyscig",
+        "or": {
+            "Samochód": 4,
+            "Motocykl": 4,
+            "Ciężarówka": 4
+        },
+        "and": {
+            "Charakter": 10,
+            "Zręczność": 12
+        },
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "Mike tak miał, pamiętam, że nawet wykręcił sobie lusterka, bo mu zawadzały, jak w bramy wjeżdżał. Wiesz nie skłamię jak powiem, że potrafił zmieścić się w bramy węższe od bryki. Taa, ja też wcześniej byłem przekonany że to niemożliwe...",
+        "effect": "Kierowca potrafi wyprzedzać innych rajdowców na przewężeniach, bez konieczności zjeżdżania na pobocze i bez ryzyka uszkodzeń."
+    },
+    {
+        "name": "Mistrz kierownicy ucieka",
+        "book": "Neuroshima Wyscig",
+        "or": {
+            "Samochód": 9,
+            "Motocykl": 9,
+            "Ciężarówka": 9
+        },
+        "and": null,
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "Żywe srebro - tak na nią mówili. Nikt nie potrafił w nią trafić. Unikała strzałów jak cholerna kaczka z komiksu. Z Vegas była, o ile pamiętam. To wiele wyjaśnia.",
+        "effect": "Jeżeli nastawisz się na defensywę, każdy kto cię atakuje za pomocą broni palnej otrzymuje utrudnienie +70% do trafienia. Takie samo utrudnienie otrzymują wszyscy atakujący z twojego wozu."
+    },
+    {
+        "name": "Na jedną kartę",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Charakter": 12
+        },
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "Czasem są takie chwile, kiedy najlepiej zamknąć oczy i wykonać ten jeden decydujący ruch kierownicą. Tajemnica mojego sukcesu jest bardzo prosta. W krytycznych momentach zamykam oczy i daję gaz do dechy. Mam szczególny dar - często wychodzą mi ryzykowne zagrania.",
+        "effect": "Jeżeli testując Prowadzenie Pojazdów postanowisz wykorzystać szczęście, rzucasz tylko jedną kostką. Potem odejmujesz od liczby oczek 1. Traktuj to tak, jakby na każdej z trzech kostek wypadł ten sam wynik."
+    },
+    {
+        "name": "Niezniszczalny",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Budowa": 14,
+            "Charakter": 14,
+            "Odporność na ból": 6
+        },
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "Jechaliśmy coś z 10 godzin, a Bruce prowadził. Nie spał, nie jadł, tylko krwawił. Pod Birg City dostaliśmy serią z czegoś ciężkiego. Ja tylko liczyłem: będzie miał w sobie coś ze 20 litrów krwii, więc powinniśmy dojechać do NJ zanim w końcu padnie.",
+        "effect": "Wykonując testy PP Bohater ignoruje utrudnienia z ran (swoich, nie samochodu)."
+    },
+    {
+        "name": "Oczy anioła",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Charakter": 16
+        },
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "Widziałeś Cloody? No właśnie...",
+        "effect": "Działa to cholerstwo jak jakiś czar. Jeśli siedzisz wewnątrz samochodu, do twojej reputacji dolicza się podwojona Klasa wozu."
+    },
+    {
+        "name": "Po ciemku",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Czujność": 5
+        },
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "Słyszałeś historię o facecie, który wjechał do tunelu, zobaczył światełko i usłyszał syrenę? Zgasił reflektory, podjechał kawałek, wyciągnął pistolet i ustrzelił dowcipnisia z latarką.",
+        "effect": "Dopóki nie przekroczysz prędkości 50 km/h, możesz nocą jeździć bez ujemnych modyfikatorów za brak reflektorów."
+    },
+    {
+        "name": "Pod kontrolą",
+        "book": "Neuroshima Wyscig",
+        "or": {
+            "Samochód": 6,
+            "Motocykl": 6,
+            "Ciężarówka": 6
+        },
+        "and": {
+            "Charakter": 12
+        },
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "No więc widzę, że nie mamy już szans i zaraz przydupczymy w tę kamienicę. Drę się do niego, że przed nami mur, a on mi \"Przecież widzę\" i huknął bokiem tak, że mi wszystkie plomby wyskoczyły. I wiesz, odbiło nas od tej ściany jak z katapulty, zamiast się rozkraczyć, przyspieszyliśmy, psia krew. Tyle, że sobie karoserię zarysował...",
+        "effect": "Po uderzeniu w Offroad bryka nie traci prędkości, jeśli kierowca zda Bardzo Trudny test PP oparty na Charakterze."
+    },
+    {
+        "name": "Prowadzenie na schylonego",
+        "book": "Neuroshima Wyscig",
+        "or": {
+            "Samochód": 6,
+            "Motocykl": 6,
+            "Ciężarówka": 6
+        },
+        "and": {
+            "Charakter": 12
+        },
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "Wszyscy turyści brali ten wóz za samochód - widmo. Tylko miejscowi wiedzieli, że on zawsze jeździ schylony. Prowadził samochody od maleńkości - chyba się przyzwyczaił.",
+        "effect": "Potrafisz tak ukryć się w samochodzie, tak, że z zewnątrz widać tylko twoją głowę. Zapewnia to osłonę przed ostrzałem, a ty, kierując, nie otrzymujesz żadnych utrudnień. Normalnie MG doliczyłby utrudnienie +30%"
+    },
+    {
+        "name": "Simply the best!",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": null,
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "\"You're Simpy the Best\", jak dawniej śpiewała królowa. Tak o sobie mówią niektórzy kierowcy, którzy akurat mają farta i coś idzie po ich myśli. Wygra taki turniej, a potem łazi i tylko nuci Simply the Best...",
+        "effect": "Jeśli kierowca wygrał ostatni rajd, w kolejnym dostaje prawo jednego przerzutu dowolnej kości podczas dowolnego testu PP."
+    },
+    {
+        "name": "Steve Wonder",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Spryt": 10,
+            "Charakter": 10,
+            "Postrzeganie emocji": 3
+        },
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "Facet zakładał okulary przeciwsłoneczne i zaczynał się drzeć przez megafon, że nic nie widzi i że prosi o pomoc publiczności. No powiem ci, widownia go kochała. Setki osób wydzierały się na cały głos: \"Hoopa, ciąć, prawo, ostry...\"",
+        "effect": "Kierowca automatycznie zdaje test Reputacji na starcie. Za każdym razem bohater musi wymyślić inny sposób na zdobycie poklasku publiczności."
+    },
+    {
+        "name": "Tango i Leszcz",
+        "book": "Neuroshima Wyscig",
+        "or": {
+            "Samochód": 8,
+            "Motocykl": 8,
+            "Ciężarówka": 8
+        },
+        "and": {
+            "Zręczność": 12
+        },
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "Facet siedział na zderzaku i strzelał. Siwy złamał wóz, obrócił go w pełnym pędzie o 180 stopni, wypalił do palanta trzy pociski prosto w prawą oponę i ponownie obrócił się o 180. Takie rzeczy wcześniej widziałem tylko na jakimś filmie z jazdą figurową na lodzie.",
+        "effect": "Kierowca obraca wóz o 360 stopni, a w trakcie obrotu wykonuje strzał. Żadna z tych akcji nie wiąże się z utrudnieniami wynikającymi z wykonania dwóch działań w rundzie, ale wszystkie inne utrudnienia (np. za odległość) dolicza się w normalny sposób."
+    },
+    {
+        "name": "Tyłem w przód",
+        "book": "Neuroshima Wyscig",
+        "or": {
+            "Samochód": 3,
+            "Motocykl": 3,
+            "Ciężarówka": 3
+        },
+        "and": {
+            "Charakter": 8
+        },
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "Opancerzony tyłek to podstawa. Nikt nie spodziewa się, że zaatakujesz go dupą.",
+        "effect": "Poświęcając wszystkie zdobyte zderzaki i długości (minimum 2 zderzaki), jesteś w stanie gwałtownie zahamować i uderzyć tyłem samochodu w jednego z jadących za tobą współzawodników. Taranując w ten sposób nie dodajesz utrudnienia +20% do testu PP. Jeżeli taranujesz w ten sposób i zarówno ty, jak i broniący się wykonaliście pomyślnie test PP, dochodzi do taranowania."
+    },
+    {
+        "name": "Wake me up before you go go!",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Charakter": 16
+        },
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "Na dwóch ostatnich odcinkach umiejętność PP bohatera zwiększa się 2 punkty (ale nie przesuwa to Suwaka, po prostu dwa punkty).",
+        "effect": "\"...before you go go\" zanucił pod nosem i nagle poczułem, że wóz odlatuje. A wiesz, do mety zostało coś ze 100 metrów. Ja pierniczę, nikt inny w całym Detroit nie robi tak ostatnich prostych."
+    },
+    {
+        "name": "With or without you!",
+        "book": "Neuroshima Wyscig",
+        "or": {
+            "Samochód": 6,
+            "Motocykl": 6,
+            "Ciężarówka": 6
+        },
+        "and": {
+            "Spryt": 16,
+            "Percepcja": 14
+        },
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "Tego ranka byłem mocno rozdrażniony, więc pytam spokojnie: \"Wsiadasz czy nie?\". A on mi się zwymiotował na buty, alkoholik pieprzony. Wsiadłem sam, pojechałem, wygrałem. Bez pilota. Do dziś mam zdjęcie w Cylindrach.",
+        "effect": "Bohater może pełnić jednocześnie funkcję kierowcy i pilota."
+    },
+    {
+        "name": "Wysiadka",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Zręczność": 14,
+            "Charakter": 14,
+            "Kondycja": 2
+        },
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "Radź sobie sam, ja wysiadam. Otworzył drzwi i wyskoczył. A akurat mieliśmy 110 na blacie i chcieliśmy wchodzić w zakręt. No nie powiem, żebym nie był zaskoczony...",
+        "effect": "Kierowca potrafi wyskoczyć z pędzącego wozu i jeśli zda Trudny test Kondycji, nie otrzymuje żadnych obrażeń."
+    },
+    {
+        "name": "Znikający punkt",
+        "book": "Neuroshima Wyscig",
+        "or": {
+            "Samochód": 5,
+            "Motocykl": 5,
+            "Ciężarówka": 5
+        },
+        "and": {
+            "Mechanika": 5,
+            "Fizyka": 2
+        },
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "Facet krzyknął \"Warp 5\" - czy coś takiego - i tyle go widzieliśmy.",
+        "effect": "Masz szczególne wyczucie samochodów - dobrze poznałeś możliwości poszczególnych aut. Za każdym razem, gdy próbujesz zwiększyć prędkość samochodu ponad prędkość maksymalną, nie zmniejsza się sprawność wozu."
+    },
+    {
+        "name": "Żółw",
+        "book": "Neuroshima Wyscig",
+        "or": {
+            "Samochód": 6,
+            "Motocykl": 6,
+            "Ciężarówka": 6
+        },
+        "and": {
+            "Charakter": 12,
+            "Spryt": 14
+        },
+        "additional": [
+            "Profesja Kierowca"
+        ],
+        "describe": "Młody podchodzi do mnie i mówi \"Mówcie na mnie Żółw\". No to ja sobie myślę, oho, niezła ksywka dla rajdowca. A on uśmiecha się i dodaje: \"Bo wiecie, mnie to się nie da ruszyć na trasie. Jak żółwia\" Ni diabła do dziś nie wiem o co mu dokładnie chodziło.",
+        "effect": "Bohatera o wiele trudniej staranować, bo doskonale się zastawia i tak manewruje bryką, że trudno go trafić i zepchnąć z trasy. Taranujący otrzymuje dodatkowy modyfikator +40% do testu PP."
+    },
+    {
+        "name": "Teraz możesz",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Spryt": 14,
+            "Wypatrywanie": 2
+        },
+        "additional": [
+            "Profesja Pilot"
+        ],
+        "describe": "\"To jedyny moment tego rajdu, kiedy możesz ciąć. Więc tnij.\"",
+        "effect": "Pilot przed rajdem może wybrać 1 odcinek, na którym kierowca będzie mógł zaszaleć. Na tym odcinku może zwiększyć prędkość o 40 km/h - bez jakichkolwiek dodatkowych utrudnień."
+    },
+    {
+        "name": "To tutaj..",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Spryt": 12,
+            "Charakter": 10
+        },
+        "additional": [
+            "Profesja Pilot"
+        ],
+        "describe": "Judy, może nie najbardziej seksowna laska w Detroit, ale nie można jej było nie lubić. Rewelacyjny pilot. Potrafiła niesamowicie wytłumaczyć trasę kierowcy: \"Ten zakręt tu to dokładnie to co przed knajpą u Barrego, potem masz taką hoopę jak pod prysznicami, więc ostrożnie i potem jest prosta długa na dwa parkingi...\"",
+        "effect": "Przed wyścigiem pilot może wytłumaczyć w jasny i zrozumiały dla kierowcy sposób dowolny odcinek trasy. Pilot, pod warunkiem, że poznał trasę, wykonuje Trudny test Sprytu dla każdego odcinka - opowiadając o nim kierowcy. Kierowca wykonuje Trudny test Sprytu dla każdego z tych odcinków, dla których pilot zdał swój test. Jeśli kierowca zda, dostaje ułatwienie -5% dla danego odcinka."
+    },
+    {
+        "name": "Uważaj, za nami!",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Spryt": 12
+        },
+        "additional": [
+            "Profesja Pilot"
+        ],
+        "describe": "Debil zamiast gapić się w papiery rozglądał się naokoło. Zatrzymałem brykę i mu mówię: \"Patrz kretynie w rozpiskę trasy, a nie za nas, bo się rozpieprzymy!\". A on mi mówi, że rozpiskę wykuł na pamięć, a patrzy za nas by krzyknąć, gdy ktoś będzie chciał do nas strzelać. No nie powiem, bystry gość jak na pilota...",
+        "effect": "Jeśli Pilot zda Bardzo Trudny test Sprytu, przed każdym kolejnym Odcinkiem to znaczy, że wie co się na nim dzieje i nie musi patrzeć w rozpiskę. Ten moment może wykorzystać na inną akcję."
+    },
+    {
+        "name": "We don't need another hero",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Percepcja": 12,
+            "Charakter": 12
+        },
+        "additional": [
+            "Profesja Pilot"
+        ],
+        "describe": "No wiesz, \"We don't need another hero\", tak zwykł mawiać mój pilot, gdy rozpalały mi się oczy i zaczynałem jechać jak wariat. Wtedy dostawałem w pysk, a Jack wydzierał mi się wprost do ucha: \"Te, hero, jak chcesz ginąć, zmień pilota!\"",
+        "effect": "Obecność pilota pozwala raz na wyścig zmniejszyć zadeklarowaną prędkość już po nieudanym rzucie. Wykonuje się drugi test PP, z prędkością, zmniejszoną przynajmniej o 30 km/h"
+    },
+    {
+        "name": "Atrapa",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Mechanika": 3,
+            "Percepcja": 10
+        },
+        "additional": [
+            "Profesja Mechanik"
+        ],
+        "describe": "Te śruby wyglądały jak prawdziwe...",
+        "effect": "Potrafisz podmienić części w cudzym samochodzie w taki sposób, by na pierwszy rzut oka wyglądały na sprawne. W rzeczywistości montujesz atrapę, która nie nadaje się nawet do naprawy. W zależności od stopnia komplikacji atrapy montaż zajmuje od kilku minut do kilku godzin. Im bardziej istotny element, i im większy, tym łatwiejsza do rozpoznania atrapa. Poziom Trudności montażu i testu rozpoznania (Mechanika) ustala MG - najczęściej na Bardzo Trudny."
+    },
+    {
+        "name": "Ktoś się brzydko bawił",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Wypatrywanie": 2,
+            "Otwieranie zamków": 2,
+            "Percepcja": 12
+        },
+        "additional": [
+            "Profesja Mechanik"
+        ],
+        "describe": "Popatrzcie na te rysy przy zamku... Ktoś się brzydko bawił.",
+        "effect": "Bohater z łatwością rozpoznaje udane i nieudane próby grzebania przy zamkach w samochodzie (drzwi, bagażnik, stacyjka). Wystarczy że zda Trudny test Wypatrywania albo Otwierania zamków, zależy która umiejętność jest na wyższym poziomie."
+    },
+    {
+        "name": "Latający Holender",
+        "book": "Neuroshima Wyscig",
+        "or": {
+            "Samochód": 5,
+            "Motocykl": 5,
+            "Ciężarówka": 5
+        },
+        "and": {
+            "Mechanika": 3
+        },
+        "additional": [
+            "Profesja Mechanik"
+        ],
+        "describe": "Zobaczyliśmy paskudny wrak samochodu, normalnie według praw fizyki coś takiego nie miałoby prawa jeździć. Ale tamten wrak toczył się na trzech kołach - wolno, jednak przed siebie. Nic tylko splunąć i uciekać.",
+        "effect": "Nawet jeżeli Sprawność samochodu spadła do 0, potrafisz zmusić wóz do dalszej jazdy. Auto przejedzie jeszcze tyle kilometrów, ile wynosi suma twoich umiejętności Mechanika i Prowadzenie Pojazdów. Potem zdechnie definitywnie. Prędkość samochodu oscyluje pomiędzy zerem a pięcioma kilometrami na godzinę."
+    },
+    {
+        "name": "Maskowanie auta",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Maskowanie": 5,
+            "Mechanika": 2
+        },
+        "additional": [
+            "Profesja Mechanik"
+        ],
+        "describe": "Potrafił zamaskować samochód na sto sposobów. Gdyby się postarał, zobaczyłbyś przed sobą kombajn ziemniaczany.",
+        "effect": "Maskowanie samochodów wychodzi ci bardzo dobrze. Otrzymujesz premię -20% przy testach Maskowania samochodów. Ponadto, jeżeli tylko posiadasz dostępne części, potrafisz sprawić by samochód wyglądał jak pojazd innego typu. Drastyczne zmiany wyglądu wiążą się z Bardzo Trudnym lub Cholernie Trudnym testem Maskowania."
+    },
+    {
+        "name": "Pianista",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Zwinne dłonie": 6,
+            "Spryt": 12
+        },
+        "additional": [
+            "Profesja Mechanik"
+        ],
+        "describe": "Była niewidoma od urodzenia - jakaś paskudna choroba. Mimo wszystko, była niezłym mechanikiem. Mówili na nią pianistka, miała takie gotyckie dłonie i potrafiła naprawić każdy silnik posługując się tylko dotykiem.",
+        "effect": "W czasie testów mechaniki odnoszących się do silników samochodowych bohater nie potrzebuje zmysłu wzroku."
+    },
+    {
+        "name": "Znawca samochodów",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Samochód": 4,
+            "Motocykl": 4,
+            "Ciężarówka": 4,
+            "Mechanika": 4,
+            "Elektronika": 2
+        },
+        "additional": [
+            "Profesja Mechanik"
+        ],
+        "describe": "Prawdziwy koneser samochodów zawiązuje sobie oczy, podchodzi do auta, wyciąga rurkę i zasysa trochę paliwa. Potem bada bukiet, wypluwa wszystko do pojemniczka i mówi \"Pontiac. Srebrny z 1972 roku. Mały przebieg, świece do wymiany.\"",
+        "effect": "Rozpoznajesz wszystkie parametry samochodu (takie jak zwrotność, wytrzymałość, maksymalna prędkość). Wystarczy, że poobserwujesz jak bryka jeździ, wsłuchasz się w warkot silnika i MG śpiewa jak na spowiedzi. Jeżeli jeszcze masz okazję zajrzeć pod maskę sprawa jest jasna. Powinieneś jeszcze zdać test Mechaniki, a poziom trudności ustali Ci prowadzący (bazowo test Bardzo Trudny)"
+    },
+    {
+        "name": "Oddam po pierwszym",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Perswazja": 5
+        },
+        "additional": [
+            "Profesja Menadżer"
+        ],
+        "describe": "Chodził od ekipy do ekipy i pożyczał gamble na paliwo. Każdemu powtarzał \"oddam po pierwszym zwycięstwie\". Pożyczali mu, bo chłopak był młody i obiecujący. Pewnego dnia zjechał z toru, wcisnął gaz do dechy i odjechał gdzieś na zachód. I tyle go widzieli.",
+        "effect": "Wykonując Trudny test Perswazji bohater potrafi naciągnąć sponsora na tyle dodatkowego paliwa ile akurat potrzebne jest do wyścigu. Po wyścigu uszereguj wszystkie zespoły i podziel ich liczbę przez 2. Jeżeli zespół bohatera znajdzie się w połowie zwycięzców, nie trzeba zwracać zużytego paliwa. Jeśli ekipa bohatera przegrała, musi zwrócić dwa razy tyle paliwa i to w ciągu miesiąca."
+    },
+    {
+        "name": "Pan Ktoś",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Zdolności przywódcze": 5
+        },
+        "additional": [
+            "Profesja Menadżer"
+        ],
+        "describe": "Pan Ktoś nie musi się przedstawiać.",
+        "effect": "W kontaktach ze sponsorami lub potencjalnymi sponsorami bohater może powtórzyć nieudany test Reputacji (każdy test tylko raz)."
+    },
+    {
+        "name": "Uważaj dziś na Boba",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Spryt": 14,
+            "Postrzeganie emocji": 7
+        },
+        "additional": [
+            "Profesja Menadżer"
+        ],
+        "describe": "Jay miała ciężką noc. Patti nie jest pewna czy założyła właściwą bieliznę. Bob wygląda na poważnego - jest w świetnej formie. Uważajcie na Boba.",
+        "effect": "Bohater rozpoznaje w jakiej formie znajdują się inni ludzie. Wystarczy, że poobserwuje ich przez kilkanaście minut przed wyścigiem. Bohater orientuje się kto ma kaca, kto zachorował, kto jest w znakomitej formie. MG powinien zdradzić orientacyjne utrudnienia i dodatne modyfikatory, którymi obarczeni są niedysponowani zawodnicy, ale nie musi podawać przyczyn ich stanu."
+    },
+    {
+        "name": "Wjazd na ambicję",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Blef": 8,
+            "Charakter": 16
+        },
+        "additional": [
+            "Profesja Menadżer"
+        ],
+        "describe": "Patti łapie czasami taką fazę - patrzy na frajera i mówi: \"Jaki malutki samochodzik. Chyba nie ma zbyt wysokich osiągów\". Facet pali cegłę, a potem robi wszysto by udowodnić że jest najlepszy.",
+        "effect": "Sztuczkę stosuje się tuż przed wyścigiem. Jeżeli ofiara nie zda Bardzo Trudnego testu Niezłomności, w trakcie trwania wyścigu nie może dobrowolnie zmniejszyć prędkości poniżej prędkości z jaką jedzie kierowca z zespołu Bohatera, który użył sztuczki. Jeśli prędkość obniży się mimo wszystko (niezależnie od przyczyn). Dopóki kierowca nie wyrówna prędkości, otrzymuje, wynikające ze stresu utrudnienie +50% do wszystkich testów Prowadzenia Pojazdów. Sztuczki można użyć raz na wyścig, wobec jednej osoby."
+    },
+    {
+        "name": "Wpadłem do was z flaszką",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Postrzeganie emocji": 2,
+            "Zdolności przywódcze": 2
+        },
+        "additional": [
+            "Profesja Menadżer"
+        ],
+        "describe": "Cześć. Jestem waszym nowym sąsiadem z warsztatu obok. Pomyślałem, że wpadnę do was z flaszką, wiecie wieczorek zapoznawczy. Może pogadamy o samochodach, albo coś?",
+        "effect": "Bohater wie jak przełamać pierwsze lody w rozmowie z konkurencyjną ekipą. Po wspólnym wieczorku zapoznawczym wszystkie późniejsze próby obrony przed Perswazją i Blefem bohatera będą trudniejsze o +20%. Utrudnienie obowiązuje do czasu gdy ktoś z przeciwnej ekipy wykona wreszcie udany test Niezłomności."
+    },
+    {
+        "name": "Daj mi go na dziewiątą",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Budowa": 12,
+            "Broń maszynowa": 5
+        },
+        "additional": [
+            "Profesja Agent"
+        ],
+        "describe": "Bruce jest strzelcem jedynym w swoim rodzaju. To chyba jedyny facet w tej branży, który nie wywala całego magazynka podczas rajdu. Czeka sobie cierpliwie, a dopiero gdy ma brykę na muszce, strzela.",
+        "effect": "Stosuje się do karabinów na stałe zamontowanych do bryki. Strzelec dostaje +2 do umiejętności Broń maszynowa. Otrzymana premia nie przesuwa suwaka."
+    },
+    {
+        "name": "Prosto pod koła",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Rzucanie": 5,
+            "Znajomość terenu": 2
+        },
+        "additional": [
+            "Profesja Agent"
+        ],
+        "describe": "To coś jak kręgle, tylko bardziej głośne.",
+        "effect": "Potrafisz rzucać granatem z pędzącego samochodu w taki sposób, żeby trafił dokładnie pod podwozie innego wozu, jadącego tuż za tobą (jedna długość) Granat eksploduje pod autem zadając ciężkie obrażenia."
+    },
+    {
+        "name": "Przeskok",
+        "book": "Neuroshima Wyscig",
+        "or": null,
+        "and": {
+            "Kondycja": 2,
+            "Zręczność": 14
+        },
+        "additional": [
+            "Profesja Agent"
+        ],
+        "describe": "Coś walnęło w dach, czy mi się zdawało?",
+        "effect": "Bohater potrafi przeskakiwać między dachami jadących samochodów. Poziom Trudności takich prób jest zawsze co najwyżej Problematyczny."
+    }
+]
