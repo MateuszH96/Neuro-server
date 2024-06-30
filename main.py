@@ -3,8 +3,14 @@ import json
 import os
 from PIL import Image
 from io import BytesIO
+from time import gmtime, strftime
 
 app = Flask(__name__)
+
+@app.after_request
+def add_cors_headers(response):
+    response.headers['Access-Control-Allow-Origin'] = '*'
+    return response
 
 @app.route("/")
 def hello_world():
@@ -23,16 +29,17 @@ def return_data():
 
 @app.route("/image/<image_name>")
 def get_image(image_name):
+    with open("./statistic.txt", "a") as myfile:
+        myfile.write(strftime("%Y-%m-%d %H:%M:%S\n", gmtime()))
     image_path = os.path.join('images', image_name)
     if os.path.exists(image_path):
         # Open an image file
         with Image.open(image_path) as img:
-            # Resize the image to 800x600
-            img = img.resize((800, 600), Image.ANTIALIAS)
+            img = img.resize((1107,620), Image.ANTIALIAS)
 
             # Save it to a BytesIO object in WebP format
             img_io = BytesIO()
-            img.save(img_io, 'WEBP', quality=80)  # Set quality to 80 (out of 100)
+            img.save(img_io, 'WEBP', quality=100)
             img_io.seek(0)
 
             return send_file(img_io, mimetype='image/webp')
